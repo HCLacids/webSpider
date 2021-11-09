@@ -1,0 +1,39 @@
+text : 	link : http://news.39.net/xinjiangjie/index.html
+text : 电报	link : http://news.39.net/xinjiangjie/db/
+text : 访谈	link : http://news.39.net/xinjiangjie/ft/
+text : 传记	link : http://news.39.net/xinjiangjie/zj/
+text : 前沿	link : http://news.39.net/xinjiangjie/qy/
+text : 洞察	link : http://news.39.net/xinjiangjie/dc/
+text : 政策	link : http://news.39.net/xinjiangjie/zc/
+text : 中成药专题研究 | 中药板块指数下挫，中成药受制因素多 申万中药对医药生物板块拉动有限	link : http://news.39.net/dc/210127/8630217.html
+text : CRO专题研究 | 疫情刺激，需求拉升，CRO潜能激发 CRO（合同研发服务），是通过合同形式为制药企业和研发机构在药物研发过程中提供专业化服务的一种学术性或商业性的科学机构。	link : http://news.39.net/a/210111/8581740.html
+text : 研发新冠疫苗，加速推进我国疫苗市场发展 疫苗作为目前唯一的预防性药品，一直以来受到各界关注，全球疫苗市场在刚性需求下得以长期稳定增长。	link : http://drug.39.net/xjj/201217/8504457.html
+text : 医美发力，决战上游 随经济发展，消费者对健康需求进一步细分，医美成为消费者相对关注产品。	link : http://drug.39.net/a/201215/8499814.html
+text : 医美注射，下游竞争 医美注射行业产业链共三个板块，其中下游医美平台直接初代消费者。	link : http://drug.39.net/a/201215/8499936.html
+text : 中成药专题研究 | 中药板块指数下挫，中成药受制因素多	link : http://news.39.net/dc/210127/8630217.html
+text : CRO专题研究 | 疫情刺激，需求拉升，CRO潜能激发	link : http://news.39.net/a/210111/8581740.html
+text : 研发新冠疫苗，加速推进我国疫苗市场发展	link : http://drug.39.net/xjj/201217/8504457.html
+text : 医美发力，决战上游	link : http://drug.39.net/a/201215/8499814.html
+text : 医美注射，下游竞争	link : http://drug.39.net/a/201215/8499936.html
+text : 仁济医院完成浦东新区首例造血干细胞捐献，这预示着哪些信号？	link : http://news.39.net/qy/200703/8011601.html
+text : 赴港“筹钱”热潮继续！港股真能成为国内药企后市场时代发展“吸金池”？	link : http://news.39.net/dc/200623/7991516.html
+text : 被跨国企业垄断多年后，国产牙骨传导听力系统将填补本土听力市场空白	link : http://news.39.net/qy/200622/7989216.html
+text : 从跟风到需求，你到底需要什么样的商业保险？	link : http://news.39.net/a/200605/7949071.html
+text : 地方集采陆续落地，临床、质量、价格三核心仍为主旋律	link : http://news.39.net/a/200520/7911201.html
+text : 2	link : index_1.html
+text : 3	link : index_2.html
+text : 4	link : index_3.html
+text : 5	link : index_4.html
+text : 6	link : index_5.html
+text : 7	link : index_6.html
+text : 8	link : index_7.html
+text : 下一页	link : index_1.html
+text : 尾页	link : index_9.html
+text : 中成药专题研究 | 中药板块指数下挫，中成药受制因素多	link : http://news.39.net/dc/210127/8630217.html
+text : CRO专题研究 | 疫情刺激，需求拉升，CRO潜能激发	link : http://news.39.net/a/210111/8581740.html
+text : 研发新冠疫苗，加速推进我国疫苗市场发展	link : http://drug.39.net/xjj/201217/8504457.html
+text : 医美发力，决战上游	link : http://drug.39.net/a/201215/8499814.html
+text : 39健康网	link : http://www.39.net/
+text : 未经授权请勿转载	link : http://corp.39.net/info/disclaimer.html
+text : 联系我们	link : http://corp.39.net/info/contact.html
+text : 	link : http://58.62.173.137/impeach.php?appid=68&sign=b6b5f07aa7a591aecbfa36ad7ab72d24

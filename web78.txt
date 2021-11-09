@@ -1,0 +1,39 @@
+text : 	link : http://www.39.net/
+text : 登录	link : https://my.39.net/passport/Login.aspx
+text : 注册	link : https://my.39.net/passport/reg.aspx
+text : 39网友	link : javascript:void(0);
+text : 我的提问	link : http://my.39.net/UserCenter/default.aspx?menu=myquestions
+text : 个人管理	link : http://my.39.net
+text : 退出	link : javascript:void(0);
+text : 消息	link : http://my.39.net/UserCenter/default.aspx?menu=inbox
+text : 问医生	link : http://ask.39.net/
+text : 找医院	link : http://yyk.39.net/
+text : 查疾病	link : http://jbk.39.net/
+text : 症状自查	link : http://jbk.39.net/bw_t2/
+text : 药品通	link : http://ypk.39.net/
+text : 快应用	link : http://www.39.net/a/200519/7910008.html
+text : 	link : http://v.39.net/blcg/210802/9261998.html
+text : 	link : http://v.39.net/blcg/210701/9129187.html
+text : 	link : http://v.39.net/blcg/210622/9092900.html
+text : 	link : http://v.39.net/blcg/210621/9089255.html
+text : 	link : http://v.39.net/blcg/210621/9089233.html
+text : 	link : http://v.39.net/blcg/210621/9089222.html
+text : 	link : http://v.39.net/blcg/210621/9089217.html
+text : 	link : http://v.39.net/blcg/210617/9074005.html
+text : 	link : http://v.39.net/blcg/210616/9068175.html
+text : 	link : http://v.39.net/blcg/210615/9063291.html
+text : 	link : http://v.39.net/blcg/210615/9063286.html
+text : 	link : http://v.39.net/blcg/210615/9063283.html
+text : 	link : http://v.39.net/blcg/210615/9063277.html
+text : 	link : http://v.39.net/blcg/210611/9052579.html
+text : 	link : http://v.39.net/blcg/210610/9047348.html
+text : 2	link : index_1.html
+text : 3	link : index_2.html
+text : 4	link : index_3.html
+text : 5	link : index_4.html
+text : 下一页	link : index_1.html
+text : 尾页	link : index_4.html
+text : 39健康网	link : http://www.39.net/
+text : 未经授权请勿转载	link : http://corp.39.net/info/disclaimer.html
+text : 联系我们	link : http://corp.39.net/info/contact.html
+text : 	link : http://58.62.173.137/impeach.php?appid=68&sign=b6b5f07aa7a591aecbfa36ad7ab72d24

@@ -1,0 +1,379 @@
+text : 	link : http://www.39.net/
+text : 登录	link : https://my.39.net/passport/Login.aspx
+text : 注册	link : https://my.39.net/passport/reg.aspx
+text : 39网友	link : javascript:void(0);
+text : 我的提问	link : http://my.39.net/UserCenter/default.aspx?menu=myquestions
+text : 个人管理	link : http://my.39.net
+text : 退出	link : javascript:void(0);
+text : 消息	link : http://my.39.net/UserCenter/default.aspx?menu=inbox
+text : 问医生	link : http://ask.39.net/
+text : 找医院	link : http://yyk.39.net/
+text : 查疾病	link : http://jbk.39.net/
+text : 症状自查	link : http://jbk.39.net/bw_t2/
+text : 药品通	link : http://ypk.39.net/
+text : 快应用	link : http://www.39.net/a/200519/7910008.html
+text : 	link : http://disease.39.net/renxin/
+text : 153期邓春华：是时候解开缠绕在男人身上的“裹脚布”了	link : http://disease.39.net/a/211028/9617604.html
+text : 152期陆正齐――走在暗黑之地的白衣行者	link : http://disease.39.net/a/211021/9590218.html
+text : 151期“医者”葛坚	link : http://disease.39.net/a/210930/9508459.html
+text : 150期针，是“岭南陈氏针法”　人，是第四代传承人陈秀华	link : http://disease.39.net/a/210903/9401667.html
+text : 149期如果医疗界也举办奥运会 任东林一定是肛肠项目上的世界冠军	link : http://disease.39.net/a/210819/9335875.html
+text : 148期王存川：再难也会坚持下去，哪怕被说成疯子	link : http://disease.39.net/a/210721/9213142.html
+text : 147期古洁若：若问松高洁，待到雪化时	link : http://disease.39.net/a/210708/9159062.html
+text : 146期苏逢锡：对乳腺癌患者感同身受，因为我也曾被命运反复整蛊	link : http://disease.39.net/a/210617/9070252.html
+text : 145期 何晓顺：器官移植，一个生命对另一个生命的馈赠	link : http://disease.39.net/a/210517/8957394.html
+text : 144期像剥橘子一样去除前列腺增生	link : http://disease.39.net/a/210425/8885188.html
+text : 143期股骨头坏死――不做不该做的手术，也不做不擅长的手术	link : http://disease.39.net/a/210407/8821434.html
+text : 142期没有血管通路，就没有血液透析的机会	link : http://disease.39.net/a/210330/8795664.html
+text : 141期刘丽：为罕见病患者寻找出路	link : http://disease.39.net/a/210315/8746680.html
+text : 140期漆松涛：拯救生命于“万一”的奇迹	link : http://disease.39.net/a/210205/8657998.html
+text : 139期陈敏山：目善言善，心善行善	link : http://disease.39.net/a/210118/8601111.html
+text : 138期张湘民：用侠骨仁心治病，为试验新手术甘当“小白鼠”	link : http://disease.39.net/a/201225/8533805.html
+text : 137期李劲松：手握一把带温度的手术刀	link : http://disease.39.net/a/201201/8450942.html
+text : 136期朱庆棠：我喜欢有挑战的人生	link : http://disease.39.net/a/201124/8431669.html
+text : 135期李浩淼：独具匠心的“骨肿瘤科大拿”	link : http://disease.39.net/a/201104/8366447.html
+text : 134期“宝藏医生”于天启：让患者花“小钱”看大病，不让患者花冤枉钱	link : http://disease.39.net/a/200915/8213260.html
+text : 133期谭杰：专注呼吸，让病人活得有尊严	link : http://disease.39.net/a/200829/8163339.html
+text : 132期张旺明：从医三十载，雕刻式手术改写患者命运	link : http://disease.39.net/a/200707/8020867.html
+text : 131期蔡道章：患者都是“家乡人”	link : http://disease.39.net/a/200619/7982857.html
+text : 130期廖旺军：中国的新药临床研究正在走上全球舞台	link : http://disease.39.net/a/200619/7981638.html
+text : 129期暖医生刘俊：用“人文”查房	link : http://disease.39.net/lj/200605/7947932.html
+text : 128期肖冠华：一边抗疫，一边记录阳光	link : http://disease.39.net/xgh/200521/7914170.html
+text : 127期刘赞：小汤山战“疫”	link : http://disease.39.net/liuzan/200512/7894750.html
+text : 126期援鄂医生李昕：我在方舱医院守护我的病人	link : http://disease.39.net/lixin/200427/7863489.html
+text : 125期王馨：抗过非典，再战新冠	link : http://disease.39.net/wx/200408/7835729.html
+text : 124期李新华：抗疫队伍中的“钢铁侠”	link : http://disease.39.net/lxh/200331/7824845.html
+text : 123期援鄂医生蒋伟平：为重症患者点燃“生”的希望	link : http://disease.39.net/jwp/200330/7823627.html
+text : 122期杨智：武汉抗疫战中的“大白” ，奋战在两个ICU	link : http://disease.39.net/yz/200327/7820003.html
+text : 121期抗疫一线吸粉无数的护理男团	link : http://disease.39.net/nhl/200319/7809365.html
+text : 120期ICU老将杨春华	link : http://disease.39.net/ych/200317/7806851.html
+text : 119期杨晓平：我不会轻言放弃任何一个生命	link : http://disease.39.net/yxp/200316/7804474.html
+text : 118期硬核护理打通重症患者生命通道	link : http://disease.39.net/zsyy/200313/7802935.html
+text : 117期援鄂医生刘昕：我在武汉保护新冠患者的肾	link : http://disease.39.net/liuxin/200311/7800861.html
+text : 116期援鄂ICU护士李雪青：医者爱人，也被人爱着	link : http://disease.39.net/lxq/200305/7795420.html
+text : 115期李观明：勇担重任的应急老兵	link : http://disease.39.net/lgm/200228/7790815.html
+text : 114期许可慰：抗疫最前线的“拼命三郎”	link : http://disease.39.net/xkw/200225/7789672.html
+text : 113期王逢贤：做“心中有光”的贤医	link : http://disease.39.net/wfx/200224/7789117.html
+text : 112期梁燕琼：像亲人一样对待每位患者	link : http://disease.39.net/lyq/200127/7772053.html
+text : 111期王成元：充满激情的面神经修复大师	link : http://disease.39.net/wcy/200121/7770734.html
+text : 110期袁士翔：对手术精益求精，每天用鸡翅练手	link : http://disease.39.net/ysx/200113/7750953.html
+text : 109期“妙手助孕”的中医大夫高三德	link : http://disease.39.net/a/191231/7728957.html
+text : 108期许琰：保护好孩子的眼睛，是我的责任	link : http://disease.39.net/xuyan/191223/7709634.html
+text : 107期张顺：“TF boy”这个称呼，我喜欢	link : http://disease.39.net/zs/191219/7701103.html
+text : 106期李浩淼：护骨的治癌能手	link : http://disease.39.net/lhm/191211/7681873.html
+text : 105期温晓飞：患者心中的“满分”医生	link : http://disease.39.net/wxf/191122/7634267.html
+text : 104期郑欣：患者心中的“三好”医生	link : http://disease.39.net/zx/191112/7607332.html
+text : 103期王继勇：把手机号变成生命热线	link : http://disease.39.net/wjy/191108/7598714.html
+text : 102期余力生：讲“故事”的耳鼻喉科医生	link : http://disease.39.net/yls/191030/7576576.html
+text : 101期刘宁：骨头上的手工匠	link : http://disease.39.net/liuning/191022/7557028.html
+text : 100期腹膜癌诊疗高手李雁：无招胜有招	link : http://disease.39.net/liyan/191017/7545467.html
+text : 99期张��莉：致力打造慢粒军团的抗击之路	link : http://disease.39.net/zyl/191009/7521722.html
+text : 98期白姣姣：糖尿病足患者的守护天使	link : http://disease.39.net/bjj/190917/7472354.html
+text : 94期张艳：介入科女“独行侠”	link : http://disease.39.net/zy/190819/7396663.html
+text : 97期廖新林：从抗“非典”到支援西藏	link : http://disease.39.net/lxl/190819/7394837.html
+text : 96期何静杰：神经康复领域的坚守者	link : http://disease.39.net/hjj/190819/7395012.html
+text : 95期徐美东：爱挑战的内镜专家	link : http://disease.39.net/xmd/190818/7394148.html
+text : 93期王宇医生的奇遇人生	link : http://disease.39.net/wy/190818/7394062.html
+text : 92期贺运河：急诊科的“拼命医生”	link : http://disease.39.net/hyh/190817/7393136.html
+text : 91期杨兵：永远心系病人的好医生	link : http://disease.39.net/yb/190817/7392976.html
+text : 90期苏怡：助力康复，不抛弃不放弃	link : http://disease.39.net/sy/190817/7392748.html
+text : 89期“心脏守护人”汪芳	link : http://disease.39.net/wf/190817/7392525.html
+text : 88期王宗平：从乡村医生到肿瘤科大夫，两代人的医者仁心	link : http://disease.39.net/wzp/190816/7390976.html
+text : 87期“送子观音”任春娥	link : http://disease.39.net/rce/190816/7393245.html
+text : 86期“急诊人”曾育辉：坚守生命最前线	link : http://disease.39.net/zyh/190816/7394012.html
+text : 85期志玲姐姐：一切为了孩子的安全合理用药	link : http://disease.39.net/lzl/190816/7390494.html
+text : 84期麻醉科医师姚兰：艺高人胆大	link : http://disease.39.net/yl/190816/7389380.html
+text : 83期李叶：这个医生不太冷	link : http://disease.39.net/ly/190719/7318291.html
+text : 82期叶志斌：肾内科是门精细活	link : http://disease.39.net/yzb/190703/7271104.html
+text : 81期李杜渐：一手抓医术，一手抓仁心	link : http://disease.39.net/ldj/190628/7255764.html
+text : 80期王磊：燃烧自己，照亮病人	link : http://disease.39.net/wl/190627/7251831.html
+text : 79期孙劲旅：为过敏患者“破案”	link : http://disease.39.net/sjl/190614/7218027.html
+text : 78期王佳伟：与“罕见病”博弈	link : http://disease.39.net/wjw/190613/7214382.html
+text : 77期李军祥：大医应该厚人文	link : http://disease.39.net/ljx/190509/7130292.html
+text : 76期刘兴鹏的三重身份	link : http://disease.39.net/lxp/190428/7099811.html
+text : 75期冯利：将中医治肿瘤推向国际！	link : http://disease.39.net/fl/190419/7073448.html
+text : 74期罗斌：一个男大夫的自我修养	link : http://disease.39.net/lb/190416/7062342.html
+text : 73期“中医科普先锋”胡世云	link : http://disease.39.net/hsy/190329/7009340.html
+text : 72期走近“镇院之宝”顾有守	link : http://disease.39.net/gys/190325/6993125.html
+text : 71期“慢”医生毛永辉	link : http://disease.39.net/myh/190308/6940823.html
+text : 70期“暖医生”孟化	link : http://disease.39.net/mh/181120/6658958.html
+text : 69期“开心”人张晓慎	link : http://disease.39.net/zxs/181106/6627524.html
+text : 68期陈汝福：向“癌症之王”宣战的斗士	link : http://disease.39.net/crf/151021/4712913.html
+text : 67期保胆专家胡海：愿尽毕生之力攻克胆石病	link : http://disease.39.net/huhai/150714/4656180.html
+text : 66期葛凤麟：别把我说得那么传奇	link : http://disease.39.net/gfl/150519/4625818.html
+text : 65期绿光“使”者杨国胜医生	link : http://disease.39.net/ygsh/150506/4619927.html
+text : 64期徐纪文：癫痫之战	link : http://disease.39.net/zt/150228/4582764.html
+text : 63期皮肤科老顽童朱学骏	link : http://disease.39.net/zxj/150108/4554727.html
+text : 62期郑亿庆：让一特殊群体走出无声的世界	link : http://disease.39.net/zyq/141123/4522460.html
+text : 61期李天旺：为风湿病患者撑起一片天	link : http://disease.39.net/ltw/140909/4467612.html
+text : 60期张卫达：大爱救心，军医要有担当	link : http://disease.39.net/zwd/140625/4412138.html
+text : 59期黄健：不断攀爬技术高峰的勇者	link : http://disease.39.net/hj/140514/4388626.html
+text : 58期车小燕：SARS检测“第一人”	link : http://disease.39.net/cxy/140109/4324343.html
+text : 57期刘衍民：最难拒绝的是患者的信任	link : http://disease.39.net/lym/131127/4296644.html
+text : 56期蔡瑞康：准备出一辈子门诊	link : http://disease.39.net/a_crk/130927/4267017.html
+text : 55期“B超神探”贾立群	link : http://disease.39.net/a_jlq/130925/4263210.html
+text : 54期支修益：抗癌禁烟志愿者	link : http://disease.39.net/zxy/130830/4247238.html
+text : 53期杨冬梓：当医生让我每天都能感受幸福	link : http://disease.39.net/a_ydz/130708/4205958.html
+text : 52期王耀献：佛心从医 哲思治院	link : http://disease.39.net/a_wyx/130630/4198832.html
+text : 51期霍勇：医生要有珍惜患者的人文情怀	link : http://disease.39.net/a_huoyong/130621/4194358.html
+text : 50期孙立忠：急战、血战拼出来的大血管疾病斗士	link : http://disease.39.net/a_slz/130319/4142093.html
+text : 49期马长生：从熟练手术到基础研究的毅然转身	link : http://disease.39.net/a_mcs/130218/4123728.html
+text : 48期杨文英：热心健康教育的医生“明星”	link : http://disease.39.net/a_ywy/121225/4101584.html
+text : 47期徐震纲：18年义诊4518小时的肿瘤外科专家	link : http://disease.39.net/a_xzg/121129/4088083.html
+text : 46期李长岭：一年要上833天班的泌尿外科医生	link : http://disease.39.net/a_lcl/121128/4087736.html
+text : 45期李晔雄：把病例研究当爱好的放疗科主任	link : http://disease.39.net/a_lyx/121127/4087731.html
+text : 44期吕宁：每天走钢丝的“医生的医生”	link : http://disease.39.net/a_ln/121126/4087710.html
+text : 43期石远凯：靠勤奋“苦”出来的大牌专家	link : http://disease.39.net/a_syk/121125/4087707.html
+text : 42期让人震撼、敬佩的张金哲	link : http://disease.39.net/a_zjz/121106/4077698.html
+text : 41期陈敏华：干了两辈子工作的拼命三娘	link : http://disease.39.net/a_cmh/121024/4070658.html
+text : 40期魏文斌：病人带希望而来，不能让他失望而归	link : http://disease.39.net/a_wwb/120919/4049640.html
+text : 39期侯凡凡：四心”好医生	link : http://disease.39.net/a_hff/120904/4046702.html
+text : 38期保胎专家张建平，患者的希望之光	link : http://disease.39.net/a/2012618/2047628.html
+text : 37期陈菊梅：传染病狙击者	link : http://disease.39.net/a/2012426/2013863.html
+text : 36期何晓峰：医生是我的终身职业	link : http://disease.39.net/zt/201249/2003583.html
+text : 35期妇科专家宗利丽	link : http://disease.39.net/a/2012319/1992245.html
+text : 34期儿童血液病卫士方建培	link : http://disease.39.net/a/201235/1985208.html
+text : 33期幸福产科医生朱宁湖	link : http://disease.39.net/a/2012220/1976293.html
+text : 32期“生命不息 使命永恒”好军医李志斌	link : http://disease.39.net/a/201226/1968665.html
+text : 31期戒毒专家张希范	link : http://disease.39.net/a/20111226/1868921.html
+text : 30期光明使者陈家祺	link : http://disease.39.net/a/20111212/1858854.html
+text : 29期心里只有病人的心血管专家吴朝晖	link : http://disease.39.net/a/20111114/1841612.html
+text : 28期腹腔镜专家王存川	link : http://disease.39.net/a/20111031/1833557.html
+text : 27期肝胆“铁人”王捷	link : http://disease.39.net/a/20111014/1824992.html
+text : 26期郭沈昌：50年妙手解心魔	link : http://disease.39.net/a/2011926/1814336.html
+text : 24期王深明：医者生而奉献	link : http://disease.39.net/zt/2011726/1751891.html
+text : 22期王文林：为荣誉而战！	link : http://disease.39.net/zt/201178/1736884.html
+text : 21期援疆队长邹小明	link : http://disease.39.net/zt/2011627/1730714.html
+text : 20期心脏起搏专家王景峰	link : http://disease.39.net/zt/2011610/1714312.html
+text : 19期褥疮专家王维平	link : http://disease.39.net/zt/2011523/1693471.html
+text : 18期512特献：今天护士节	link : http://disease.39.net/zt/2011512/1688572.html
+text : 17期“军医不老”王希军	link : http://disease.39.net/zt/2011425/1671012.html
+text : 16期李佛保：不爱做手术的骨科“原生态”专家	link : http://disease.39.net/zt/2011414/1650789.html
+text : 15期“白衣天使”林小群：护士mm的一天 献给护士节的礼物	link : http://disease.39.net/zt/2011322/1639712.html
+text : 14期李丽霞：中医探秘之火针传奇	link : http://disease.39.net/zt/2011314/1632630.html
+text : 13期“保乳专家”苏逢锡	link : http://disease.39.net/zt/201133/1624656.html
+text : 12期“普外名医”黄宗海	link : http://disease.39.net/zt/2011221/1615825.html
+text : 11期春节特别策划――执守	link : http://disease.39.net/zt/2011214/1609524.html
+text : 10期“羊城救心大使”张卫达	link : http://disease.39.net/zt/2011123/1601296.html
+text : 9期乐昌纪实	link : http://disease.39.net/zt/2011110/1589990.html
+text : 8期“正斜专家” 林小铭	link : http://disease.39.net/zt/201113/1584702.html
+text : 7期“岭南皮肤圣手”�P国维	link : http://disease.39.net/zt/20101230/1582226.html
+text : 6期胎儿医学专家李玮�Z	link : http://disease.39.net/zt/20101224/1578401.html
+text : 5期刘仁斌：乳腺肿瘤诊治专家	link : http://disease.39.net/zt/20101213/1568400.html
+text : 3期“飞针大师”陈全新	link : http://disease.39.net/zt/20101129/1552633.html
+text : 2期救护车的故事	link : http://disease.39.net/zt/20101122/1545027.html
+text : 1期南方医院神经外科―漆松涛	link : http://disease.39.net/zt/2010118/1504033.html
+text : 	link : http://disease.39.net/a/211028/9617604.html
+text : 	link : http://disease.39.net/a/211021/9590218.html
+text : 	link : http://disease.39.net/a/210930/9508459.html
+text : 	link : http://disease.39.net/a/210903/9401667.html
+text : 	link : http://disease.39.net/a/210819/9335875.html
+text : 邓春华：是时候解开缠绕在男人身上的“裹脚布”了	link : http://disease.39.net/a/211028/9617604.html
+text : 阅读详情	link : http://disease.39.net/a/211028/9617604.html
+text : 陆正齐――走在暗黑之地的白衣行者	link : http://disease.39.net/a/211021/9590218.html
+text : 阅读详情	link : http://disease.39.net/a/211021/9590218.html
+text : “医者”葛坚	link : http://disease.39.net/a/210930/9508459.html
+text : 阅读详情	link : http://disease.39.net/a/210930/9508459.html
+text : 针，是“岭南陈氏针法”　人，是第四代传承人陈秀华	link : http://disease.39.net/a/210903/9401667.html
+text : 阅读详情	link : http://disease.39.net/a/210903/9401667.html
+text : 如果医疗界也举办奥运会 任东林一定是肛肠项目上的世界冠军	link : http://disease.39.net/a/210819/9335875.html
+text : 阅读详情	link : http://disease.39.net/a/210819/9335875.html
+text : 	link : http://disease.39.net/a/210721/9213142.html
+text : 阅读详情	link : http://disease.39.net/a/210721/9213142.html
+text : 王存川：再难也会坚持下去，哪怕被说成疯子	link : http://disease.39.net/a/210330/8795664.html
+text : 尝试腹腔镜手术，第一次被人说成是疯子	link : http://disease.39.net/a/210721/9213142.html
+text : 用外科手术减肥？“王存川疯了！”	link : http://disease.39.net/a/210721/9213142.html
+text : 为患者负责，才是作为医生的唯一标准	link : http://disease.39.net/a/210721/9213142.html
+text : 	link : http://disease.39.net/a/210315/8746680.html
+text : 阅读详情	link : http://disease.39.net/a/210708/9159062.html
+text : 古洁若：若问松高洁，待到雪化时	link : http://disease.39.net/a/210708/9159062.html
+text : 从心不甘情不愿，到和“科研”谈上恋爱	link : http://disease.39.net/a/210708/9159062.html
+text : 衣带渐宽终不悔，揭开强直性脊柱炎神秘面纱	link : http://disease.39.net/a/210708/9159062.html
+text : 一半靠医生，一半靠患者	link : http://disease.39.net/a/210708/9159062.html
+text : 若问松高洁，待到雪化时	link : http://disease.39.net/a/210708/9159062.html
+text : 	link : http://disease.39.net/a/210617/9070252.html
+text : 阅读详情	link : http://disease.39.net/a/210930/9508459.html
+text : 苏逢锡：对乳腺癌患者感同身受，因为我也曾被命运反复整蛊	link : http://disease.39.net/a/210205/8657998.html
+text : 板凳坐得十年冷，从荆棘闯出坦途	link : http://disease.39.net/a/210617/9070252.html
+text : 柳叶刀下人有情，给患者更好的选择权	link : http://disease.39.net/a/210617/9070252.html
+text : 保乳率全国领先，生存率与欧美相当	link : http://disease.39.net/a/210617/9070252.html
+text : 现在，我们来结案陈词	link : http://disease.39.net/a/210617/9070252.html
+text : 	link : http://disease.39.net/a/210517/8957394.html
+text : 阅读详情	link : http://disease.39.net/a/210517/8957394.html
+text : 何晓顺：器官移植，一个生命对另一个生命的馈赠	link : http://disease.39.net/a/210118/8601111.html
+text : 入行 “我一直相信勤能补拙。”	link : http://disease.39.net/a/210517/8957394.html
+text : 突破 “每一次技术创新，都来自患者临床迫切的实际需求。”	link : http://disease.39.net/a/210517/8957394.html
+text : 捐献 “没有器官捐献，器官移植就无从谈起！””	link : http://disease.39.net/a/210517/8957394.html
+text : 	link : http://disease.39.net/a/210425/8885188.html
+text : 阅读详情	link : http://disease.39.net/a/210425/8885188.html
+text : 刘春晓：像剥橘子一样去除前列腺增生	link : http://disease.39.net/a/210425/8885188.html
+text : 乐当“小手术匠”，想方设法“取经学艺”	link : http://disease.39.net/a/210425/8885188.html
+text : 手术刀成为“国际名片”，向世界推广“中国术式”	link : http://disease.39.net/a/210425/8885188.html
+text : 独辟蹊径造膀胱，点亮患者黯淡人生	link : http://disease.39.net/a/210425/8885188.html
+text : 	link : http://disease.39.net/a/210407/8821434.html
+text : 阅读详情	link : http://disease.39.net/a/210407/8821434.html
+text : 股骨头坏死――不做不该做的手术，也不做不擅长的手术	link : http://disease.39.net/a/210407/8821434.html
+text : 三十七年如一日，专攻股骨头坏死	link : http://disease.39.net/a/210407/8821434.html
+text : 悉心诊治每一个病例，改写病人的命运	link : http://disease.39.net/a/210407/8821434.html
+text : 完成保髋手术超过5000+，坚守底线“二不做”	link : http://disease.39.net/a/210407/8821434.html
+text : 邓春华 邓春华 邓春华：是时候解开缠绕在男人身上的“裹脚布”了阅读更多 153期	link : http://disease.39.net/a/211028/9617604.html
+text : 陆正齐 陆正齐 陆正齐――走在暗黑之地的白衣行者阅读更多 152期	link : http://disease.39.net/a/211021/9590218.html
+text : 葛坚 葛坚 “医者”葛坚阅读更多 151期	link : http://disease.39.net/a/210930/9508459.html
+text : 陈秀华 陈秀华 针，是“岭南陈氏针法”　人，是第四代传承人陈秀华阅读更多 150期	link : http://disease.39.net/a/210903/9401667.html
+text : 任东林 任东林 如果医疗界也举办奥运会 任东林一定是肛肠项目上的世界冠军阅读更多 149期	link : http://disease.39.net/a/210819/9335875.html
+text : 王存川 王存川 王存川：再难也会坚持下去，哪怕被说成疯子阅读更多 148期	link : http://disease.39.net/a/210721/9213142.html
+text : 古洁若 古洁若 古洁若：若问松高洁，待到雪化时阅读更多 147期	link : http://disease.39.net/a/210708/9159062.html
+text : 苏逢锡 苏逢锡 苏逢锡：对乳腺癌患者感同身受，因为我也曾被命运反复整蛊阅读更多 146期	link : http://disease.39.net/a/210617/9070252.html
+text : 何晓顺 何晓顺 何晓顺：器官移植，一个生命对另一个生命的馈赠阅读更多 145期	link : http://disease.39.net/a/210517/8957394.html
+text : 刘春晓 刘春晓 像剥橘子一样去除前列腺增生阅读更多 144期	link : http://disease.39.net/a/210425/8885188.html
+text : 何伟 何伟 股骨头坏死――不做不该做的手术，也不做不擅长的手术阅读更多 143期	link : http://disease.39.net/a/210407/8821434.html
+text : 胡波 胡波 没有血管通路，就没有血液透析的机会阅读更多 142期	link : http://disease.39.net/a/210330/8795664.html
+text : 刘丽 刘丽 刘丽：为罕见病患者寻找出路阅读更多 141期	link : http://disease.39.net/a/210315/8746680.html
+text : 漆松涛 漆松涛 漆松涛：拯救生命于“万一”的奇迹阅读更多 140期	link : http://disease.39.net/a/210205/8657998.html
+text : 陈敏山 陈敏山 陈敏山：目善言善，心善行善阅读更多 139期	link : http://disease.39.net/a/210118/8601111.html
+text : 张湘民 张湘民 张湘民：用侠骨仁心治病，为试验新手术甘当“小白鼠”阅读更多 138期	link : http://disease.39.net/a/201225/8533805.html
+text : 李劲松 李劲松 李劲松：手握一把带温度的手术刀阅读更多 137期	link : http://disease.39.net/a/201201/8450942.html
+text : 朱庆棠 朱庆棠 朱庆棠：我喜欢有挑战的人生阅读更多 136期	link : http://disease.39.net/a/201124/8431669.html
+text : 李浩淼 李浩淼 李浩淼：独具匠心的“骨肿瘤科大拿”阅读更多 135期	link : http://disease.39.net/a/201104/8366447.html
+text : 于天启 于天启 “宝藏医生”于天启：让患者花“小钱”看“大病”阅读更多 134期	link : http://disease.39.net/a/200915/8213260.html
+text : 谭杰 谭杰 谭杰：专注呼吸，让病人活得有尊严阅读更多 133期	link : http://disease.39.net/a/200829/8163339.html
+text : 张旺明 张旺明 张旺明：从医三十载，雕刻式手术改写患者命运阅读更多 132期	link : http://disease.39.net/a/200707/8020867.html
+text : 蔡道章 蔡道章 蔡道章：患者都是“家乡人”阅读更多 131期	link : http://disease.39.net/a/200619/7982857.html
+text : 廖旺军 廖旺军 廖旺军：中国的新药临床研究正在走上全球舞台阅读更多 130期	link : http://disease.39.net/a/200619/7981638.html
+text : 暖医生刘俊 暖医生刘俊 暖医生刘俊：用“人文”查房阅读更多 129期	link : http://disease.39.net/lj/200605/7947932.html
+text : 肖冠华 肖冠华 肖冠华：一边抗疫，一边记录阳光阅读更多 128期	link : http://disease.39.net/xgh/200521/7914170.html
+text : 刘赞 刘赞 刘赞：小汤山战“疫”阅读更多 127期	link : http://disease.39.net/liuzan/200512/7894750.html
+text : 援鄂医生李昕 援鄂医生李昕 援鄂医生李昕：我在方舱医院守护我的病人阅读更多 126期	link : http://disease.39.net/lixin/200427/7863489.html
+text : 王馨 王馨 王馨：抗过非典，再战新冠阅读更多 125期	link : http://disease.39.net/wx/200408/7835729.html
+text : 李新华 李新华 李新华：抗疫队伍中的“钢铁侠”阅读更多 124期	link : http://disease.39.net/lxh/200331/7824845.html
+text : 援鄂医生蒋伟平 援鄂医生蒋伟平 援鄂医生蒋伟平：为重症患者点燃“生”的希望阅读更多 123期	link : http://disease.39.net/jwp/200330/7823627.html
+text : 杨智 杨智 杨智：武汉抗疫战中的“大白” ，奋战在两个ICU阅读更多 122期	link : http://disease.39.net/yz/200327/7820003.html
+text : 中山大学附属第三医院 中山大学附属第三医院 抗疫一线吸粉无数的护理男团阅读更多 121期	link : http://disease.39.net/nhl/200319/7809365.html
+text : 杨春华 杨春华 ICU老将杨春华阅读更多 120期	link : http://disease.39.net/ych/200317/7806851.html
+text : 杨晓平 杨晓平 杨晓平：我不会轻言放弃任何一个生命阅读更多 119期	link : http://disease.39.net/yxp/200316/7804474.html
+text : 中山一院护理团队 中山一院护理团队 硬核护理打通重症患者生命通道阅读更多 118期	link : http://disease.39.net/zsyy/200313/7802935.html
+text : 援鄂医生刘昕 援鄂医生刘昕 援鄂医生刘昕：我在武汉保护新冠患者的肾阅读更多 117期	link : http://disease.39.net/liuxin/200311/7800861.html
+text : 援鄂ICU护士李雪青 援鄂ICU护士李雪青 援鄂ICU护士李雪青：医者爱人，也被人爱着阅读更多 116期	link : http://disease.39.net/lxq/200305/7795420.html
+text : 李观明 李观明 李观明：勇担重任的应急老兵阅读更多 115期	link : http://disease.39.net/lgm/200228/7790815.html
+text : 许可慰 许可慰 许可慰：抗疫最前线的“拼命三郎”阅读更多 114期	link : http://disease.39.net/xkw/200225/7789672.html
+text : 王逢贤 王逢贤 王逢贤：做“心中有光”的贤医阅读更多 113期	link : http://disease.39.net/wfx/200224/7789117.html
+text : 梁燕琼 梁燕琼 梁燕琼：像亲人一样对待每位患者阅读更多 112期	link : http://disease.39.net/lyq/200127/7772053.html
+text : 王成元 王成元 王成元：充满激情的面神经修复大师阅读更多 111期	link : http://disease.39.net/wcy/200121/7770734.html
+text : 袁士翔 袁士翔 袁士翔：对手术精益求精，每天用鸡翅练手阅读更多 110期	link : http://disease.39.net/ysx/200113/7750953.html
+text : 高三德 高三德 “妙手助孕”的中医大夫高三德阅读更多 109期	link : http://disease.39.net/a/191231/7728957.html
+text : 许琰 许琰 许琰：保护好孩子的眼睛，是我的责任阅读更多 108期	link : http://disease.39.net/xuyan/191223/7709634.html
+text : 张顺 张顺 张顺：“TF boy”这个称呼，我喜欢阅读更多 107期	link : http://disease.39.net/zs/191219/7701103.html
+text : 李浩淼 李浩淼 李浩淼：护骨的治癌能手阅读更多 106期	link : http://disease.39.net/lhm/191211/7681873.html
+text : 温晓飞 温晓飞 温晓飞：患者心中的“满分”医生阅读更多 105期	link : http://disease.39.net/wxf/191122/7634267.html
+text : 郑欣 郑欣 郑欣：患者心中的“三好”医生阅读更多 104期	link : http://disease.39.net/zx/191112/7607332.html
+text : 王继勇 王继勇 王继勇：把手机号变成生命热线阅读更多 103期	link : http://disease.39.net/wjy/191108/7598714.html
+text : 余力生 余力生 余力生：讲“故事”的耳鼻喉科医生阅读更多 102期	link : http://disease.39.net/yls/191030/7576576.html
+text : 刘宁 刘宁 刘宁：骨头上的手工匠阅读更多 101期	link : http://disease.39.net/liuning/191022/7557028.html
+text : 腹膜癌诊疗高手李雁 腹膜癌诊疗高手李雁 腹膜癌诊疗高手李雁：无招胜有招阅读更多 100期	link : http://disease.39.net/liyan/191017/7545467.html
+text : 张��莉 张��莉 张��莉：致力打造慢粒军团的抗击之路阅读更多 99期	link : http://disease.39.net/zyl/191009/7521722.html
+text : 白姣姣 白姣姣 白姣姣：糖尿病足患者的守护天使阅读更多 98期	link : http://disease.39.net/bjj/190917/7472354.html
+text : 张艳 张艳 张艳：介入科女“独行侠”阅读更多 94期	link : http://disease.39.net/zy/190819/7396663.html
+text : 廖新林 廖新林 廖新林：从抗“非典”到支援西藏阅读更多 97期	link : http://disease.39.net/lxl/190819/7394837.html
+text : 何静杰 何静杰 何静杰：神经康复领域的坚守者阅读更多 96期	link : http://disease.39.net/hjj/190819/7395012.html
+text : 徐美东 徐美东 徐美东：爱挑战的内镜专家阅读更多 95期	link : http://disease.39.net/xmd/190818/7394148.html
+text : 王宇 王宇 王宇医生的奇遇人生阅读更多 93期	link : http://disease.39.net/wy/190818/7394062.html
+text : 贺运河 贺运河 贺运河：急诊科的“拼命医生”阅读更多 92期	link : http://disease.39.net/hyh/190817/7393136.html
+text : 杨兵 杨兵 杨兵：永远心系病人的好医生阅读更多 91期	link : http://disease.39.net/yb/190817/7392976.html
+text : 苏怡 苏怡 苏怡：助力康复，不抛弃不放弃阅读更多 90期	link : http://disease.39.net/sy/190817/7392748.html
+text : 汪芳 汪芳 “心脏守护人”汪芳阅读更多 89期	link : http://disease.39.net/wf/190817/7392525.html
+text : 王宗平 王宗平 王宗平：从乡村医生到肿瘤科大夫，两代人的医者仁心阅读更多 88期	link : http://disease.39.net/wzp/190816/7390976.html
+text : 任春娥 任春娥 “送子观音”任春娥阅读更多 87期	link : http://disease.39.net/rce/190816/7393245.html
+text : “急诊人”曾育辉 “急诊人”曾育辉 “急诊人”曾育辉：坚守生命最前线阅读更多 86期	link : http://disease.39.net/zyh/190816/7394012.html
+text : 志玲姐姐 志玲姐姐 志玲姐姐：一切为了孩子的安全合理用药阅读更多 85期	link : http://disease.39.net/lzl/190816/7390494.html
+text : 麻醉科医师姚兰 麻醉科医师姚兰 麻醉科医师姚兰：艺高人胆大阅读更多 84期	link : http://disease.39.net/yl/190816/7389380.html
+text : 李叶 李叶 李叶：这个医生不太冷阅读更多 83期	link : http://disease.39.net/ly/190719/7318291.html
+text : 叶志斌 叶志斌 叶志斌：肾内科是门精细活阅读更多 82期	link : http://disease.39.net/yzb/190703/7271104.html
+text : 李杜渐 李杜渐 李杜渐：一手抓医术，一手抓仁心阅读更多 81期	link : http://disease.39.net/ldj/190628/7255764.html
+text : 王磊 王磊 王磊：燃烧自己，照亮病人阅读更多 80期	link : http://disease.39.net/wl/190627/7251831.html
+text : 孙劲旅 孙劲旅 孙劲旅：为过敏患者“破案”阅读更多 79期	link : http://disease.39.net/sjl/190614/7218027.html
+text : 王佳伟 王佳伟 王佳伟：与“罕见病”博弈阅读更多 78期	link : http://disease.39.net/wjw/190613/7214382.html
+text : 李军祥 李军祥 李军祥：大医应该厚人文阅读更多 77期	link : http://disease.39.net/ljx/190509/7130292.html
+text : 刘兴鹏 刘兴鹏 刘兴鹏的三重身份阅读更多 76期	link : http://disease.39.net/lxp/190428/7099811.html
+text : 冯利 冯利 冯利：将中医治肿瘤推向国际！阅读更多 75期	link : http://disease.39.net/fl/190419/7073448.html
+text : 罗斌 罗斌 罗斌：一个男大夫的自我修养阅读更多 74期	link : http://disease.39.net/lb/190416/7062342.html
+text : 胡世云 胡世云 “中医科普先锋”胡世云阅读更多 73期	link : http://disease.39.net/hsy/190329/7009340.html
+text : 顾有守 顾有守 走近“镇院之宝”顾有守阅读更多 72期	link : http://disease.39.net/gys/190325/6993125.html
+text : 毛永辉 毛永辉 “慢”医生毛永辉阅读更多 71期	link : http://disease.39.net/myh/190308/6940823.html
+text : 孟化 孟化 “暖医生”孟化阅读更多 70期	link : http://disease.39.net/mh/181120/6658958.html
+text : 张晓慎 张晓慎 “开心”人张晓慎阅读更多 69期	link : http://disease.39.net/zxs/181106/6627524.html
+text : 陈汝福 陈汝福 陈汝福：向“癌症之王”宣战的斗士阅读更多 68期	link : http://disease.39.net/crf/151021/4712913.html
+text : 保胆专家胡海 保胆专家胡海 保胆专家胡海：愿尽毕生之力攻克胆石病阅读更多 67期	link : http://disease.39.net/huhai/150714/4656180.html
+text : 葛凤麟 葛凤麟 葛凤麟：别把我说得那么传奇阅读更多 66期	link : http://disease.39.net/gfl/150519/4625818.html
+text : 杨国胜 杨国胜 绿光“使”者杨国胜医生阅读更多 65期	link : http://disease.39.net/ygsh/150506/4619927.html
+text : 徐纪文 徐纪文 徐纪文：癫痫之战阅读更多 64期	link : http://disease.39.net/zt/150228/4582764.html
+text : 朱学骏 朱学骏 皮肤科老顽童朱学骏阅读更多 63期	link : http://disease.39.net/zxj/150108/4554727.html
+text : 郑亿庆 郑亿庆 郑亿庆：让一特殊群体走出无声的世界阅读更多 62期	link : http://disease.39.net/zyq/141123/4522460.html
+text : 李天旺 李天旺 李天旺：为风湿病患者撑起一片天阅读更多 61期	link : http://disease.39.net/ltw/140909/4467612.html
+text : 张卫达 张卫达 张卫达：大爱救心，军医要有担当阅读更多 60期	link : http://disease.39.net/zwd/140625/4412138.html
+text : 黄健 黄健 黄健：不断攀爬技术高峰的勇者阅读更多 59期	link : http://disease.39.net/hj/140514/4388626.html
+text : 车小燕 车小燕 车小燕：SARS检测“第一人”阅读更多 58期	link : http://disease.39.net/cxy/140109/4324343.html
+text : 刘衍民 刘衍民 刘衍民：最难拒绝的是患者的信任阅读更多 57期	link : http://disease.39.net/lym/131127/4296644.html
+text : 蔡瑞康 蔡瑞康 蔡瑞康：准备出一辈子门诊阅读更多 56期	link : http://disease.39.net/a_crk/130927/4267017.html
+text : 贾立群 贾立群 “B超神探”贾立群阅读更多 55期	link : http://disease.39.net/a_jlq/130925/4263210.html
+text : 支修益 支修益 支修益：抗癌禁烟志愿者阅读更多 54期	link : http://disease.39.net/zxy/130830/4247238.html
+text : 杨冬梓 杨冬梓 杨冬梓：当医生让我每天都能感受幸福阅读更多 53期	link : http://disease.39.net/a_ydz/130708/4205958.html
+text : 王耀献 王耀献 王耀献：佛心从医 哲思治院阅读更多 52期	link : http://disease.39.net/a_wyx/130630/4198832.html
+text : 霍勇 霍勇 霍勇：医生要有珍惜患者的人文情怀阅读更多 51期	link : http://disease.39.net/a_huoyong/130621/4194358.html
+text : 孙立忠 孙立忠 孙立忠：急战、血战拼出来的大血管疾病斗士阅读更多 50期	link : http://disease.39.net/a_slz/130319/4142093.html
+text : 马长生 马长生 马长生：从熟练手术到基础研究的毅然转身阅读更多 49期	link : http://disease.39.net/a_mcs/130218/4123728.html
+text : 杨文英 杨文英 杨文英：热心健康教育的医生“明星”阅读更多 48期	link : http://disease.39.net/a_ywy/121225/4101584.html
+text : 徐震纲 徐震纲 徐震纲：18年义诊4518小时的肿瘤外科专家阅读更多 47期	link : http://disease.39.net/a_xzg/121129/4088083.html
+text : 李长岭 李长岭 李长岭：一年要上833天班的泌尿外科医生阅读更多 46期	link : http://disease.39.net/a_lcl/121128/4087736.html
+text : 李晔雄 李晔雄 李晔雄：把病例研究当爱好的放疗科主任阅读更多 45期	link : http://disease.39.net/a_lyx/121127/4087731.html
+text : 吕宁 吕宁 吕宁：每天走钢丝的“医生的医生”阅读更多 44期	link : http://disease.39.net/a_ln/121126/4087710.html
+text : 石远凯 石远凯 石远凯：靠勤奋“苦”出来的大牌专家阅读更多 43期	link : http://disease.39.net/a_syk/121125/4087707.html
+text : 张金哲 张金哲 让人震撼、敬佩的张金哲阅读更多 42期	link : http://disease.39.net/a_zjz/121106/4077698.html
+text : 陈敏华 陈敏华 陈敏华：干了两辈子工作的拼命三娘阅读更多 41期	link : http://disease.39.net/a_cmh/121024/4070658.html
+text : 魏文斌 魏文斌 魏文斌：病人带希望而来，不能让他失望而归阅读更多 40期	link : http://disease.39.net/a_wwb/120919/4049640.html
+text : 侯凡凡 侯凡凡 侯凡凡：四心”好医生阅读更多 39期	link : http://disease.39.net/a_hff/120904/4046702.html
+text : 张建平 张建平 保胎专家张建平，患者的希望之光阅读更多 38期	link : http://disease.39.net/a/2012618/2047628.html
+text : 陈菊梅 陈菊梅 陈菊梅：传染病狙击者阅读更多 37期	link : http://disease.39.net/a/2012426/2013863.html
+text : 何晓峰 何晓峰 何晓峰：医生是我的终身职业阅读更多 36期	link : http://disease.39.net/zt/201249/2003583.html
+text : 宗利丽 宗利丽 妇科专家宗利丽阅读更多 35期	link : http://disease.39.net/a/2012319/1992245.html
+text : 方建培 方建培 儿童血液病卫士方建培阅读更多 34期	link : http://disease.39.net/a/201235/1985208.html
+text : 朱宁湖 朱宁湖 幸福产科医生朱宁湖阅读更多 33期	link : http://disease.39.net/a/2012220/1976293.html
+text : 李志斌 李志斌 “生命不息 使命永恒”好军医李志斌阅读更多 32期	link : http://disease.39.net/a/201226/1968665.html
+text : 张希范 张希范 戒毒专家张希范阅读更多 31期	link : http://disease.39.net/a/20111226/1868921.html
+text : 陈家祺 陈家祺 光明使者陈家祺阅读更多 30期	link : http://disease.39.net/a/20111212/1858854.html
+text : 吴朝晖 吴朝晖 心里只有病人的心血管专家吴朝晖阅读更多 29期	link : http://disease.39.net/a/20111114/1841612.html
+text : 王存川 王存川 腹腔镜专家王存川阅读更多 28期	link : http://disease.39.net/a/20111031/1833557.html
+text : 王捷 王捷 肝胆“铁人”王捷阅读更多 27期	link : http://disease.39.net/a/20111014/1824992.html
+text : 郭沈昌 郭沈昌 郭沈昌：50年妙手解心魔阅读更多 26期	link : http://disease.39.net/a/2011926/1814336.html
+text : 王深明 王深明 王深明：医者生而奉献阅读更多 24期	link : http://disease.39.net/zt/2011726/1751891.html
+text : 王文林 王文林 王文林：为荣誉而战！阅读更多 22期	link : http://disease.39.net/zt/201178/1736884.html
+text : 邹小明 邹小明 援疆队长邹小明阅读更多 21期	link : http://disease.39.net/zt/2011627/1730714.html
+text : 王景峰 王景峰 心脏起搏专家王景峰阅读更多 20期	link : http://disease.39.net/zt/2011610/1714312.html
+text : 王维平 王维平 褥疮专家王维平阅读更多 19期	link : http://disease.39.net/zt/2011523/1693471.html
+text : 512特献 512特献 512特献：今天护士节阅读更多 18期	link : http://disease.39.net/zt/2011512/1688572.html
+text : 王希军 王希军 “军医不老”王希军阅读更多 17期	link : http://disease.39.net/zt/2011425/1671012.html
+text : 李佛保 李佛保 李佛保：不爱做手术的骨科“原生态”专家阅读更多 16期	link : http://disease.39.net/zt/2011414/1650789.html
+text : 林小群 林小群 “白衣天使”林小群：护士mm的一天 献给护士节的礼物阅读更多 15期	link : http://disease.39.net/zt/2011322/1639712.html
+text : 李丽霞 李丽霞 李丽霞：中医探秘之火针传奇阅读更多 14期	link : http://disease.39.net/zt/2011314/1632630.html
+text : 苏逢锡 苏逢锡 “保乳专家”苏逢锡阅读更多 13期	link : http://disease.39.net/zt/201133/1624656.html
+text : 黄宗海 黄宗海 “普外名医”黄宗海阅读更多 12期	link : http://disease.39.net/zt/2011221/1615825.html
+text : 春节特别策划 春节特别策划 春节特别策划――执守阅读更多 11期	link : http://disease.39.net/zt/2011214/1609524.html
+text : 张卫达 张卫达 “羊城救心大使”张卫达阅读更多 10期	link : http://disease.39.net/zt/2011123/1601296.html
+text : 39健康网 39健康网 乐昌纪实阅读更多 9期	link : http://disease.39.net/zt/2011110/1589990.html
+text : 林小铭 林小铭 “正斜专家” 林小铭阅读更多 8期	link : http://disease.39.net/zt/201113/1584702.html
+text : �P国维 �P国维 “岭南皮肤圣手”�P国维阅读更多 7期	link : http://disease.39.net/zt/20101230/1582226.html
+text : 李玮�Z 李玮�Z 胎儿医学专家李玮�Z阅读更多 6期	link : http://disease.39.net/zt/20101224/1578401.html
+text : 刘仁斌 刘仁斌 刘仁斌：乳腺肿瘤诊治专家阅读更多 5期	link : http://disease.39.net/zt/20101213/1568400.html
+text : 陈全新 陈全新 “飞针大师”陈全新阅读更多 3期	link : http://disease.39.net/zt/20101129/1552633.html
+text : 南方医科大学附属第三医院 南方医科大学附属第三医院 救护车的故事阅读更多 2期	link : http://disease.39.net/zt/20101122/1545027.html
+text : 漆松涛 漆松涛 南方医院神经外科―漆松涛阅读更多 1期	link : http://disease.39.net/zt/2010118/1504033.html
+text : 	link : http://news.39.net/xinjiangjie/
+text : 	link : http://news.39.net/shx/
+text : 	link : http://news.39.net/xinzhi/
+text : 	link : http://news.39.net/jkyys/rd/
+text : 	link : http://m.39.net/care/39zjpyt/
+text : 	link : http://woman.39.net/mrj/mrjzt/
+text : 	link : http://disease.39.net/renxin/
+text : 39健康网	link : http://www.39.net/
+text : 未经授权请勿转载	link : http://corp.39.net/info/disclaimer.html
+text : 联系我们	link : http://corp.39.net/info/contact.html
+text : 	link : http://58.62.173.137/impeach.php?appid=68&sign=b6b5f07aa7a591aecbfa36ad7ab72d24

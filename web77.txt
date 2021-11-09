@@ -1,0 +1,42 @@
+text : 	link : http://www.39.net/
+text : 登录	link : https://my.39.net/passport/Login.aspx
+text : 注册	link : https://my.39.net/passport/reg.aspx
+text : 39网友	link : javascript:void(0);
+text : 我的提问	link : http://my.39.net/UserCenter/default.aspx?menu=myquestions
+text : 个人管理	link : http://my.39.net
+text : 退出	link : javascript:void(0);
+text : 消息	link : http://my.39.net/UserCenter/default.aspx?menu=inbox
+text : 问医生	link : http://ask.39.net/
+text : 找医院	link : http://yyk.39.net/
+text : 查疾病	link : http://jbk.39.net/
+text : 症状自查	link : http://jbk.39.net/bw_t2/
+text : 药品通	link : http://ypk.39.net/
+text : 快应用	link : http://www.39.net/a/200519/7910008.html
+text : 共建	link : #hospital
+text : 视频	link : #video
+text : 音频	link : #audio
+text : 医生	link : #user
+text : 图文	link : #img
+text : 	link : http://szy.39.net/
+text : 	link : http://v.39.net/psbvideo/nfykdxzxyjhyy/
+text : 	link : http://v.39.net/psbvideo/nanfangsanyuan/
+text : 	link : http://v.39.net/qmdzy/index.html
+text : 	link : http://v.39.net/video/yss/index.html
+text : 	link : http://v.39.net/qwwdsp/index.html
+text : 	link : http://v.39.net/video/hushuozhongyi/index.html
+text : 	link : http://v.39.net/yp/qmdzy/
+text : 	link : http://v.39.net/yp/jkys/
+text : 	link : http://doc.39.net/
+text : 	link : http://doc.39.net/myzx/index.html
+text : 	link : http://news.39.net/shx/
+text : 	link : http://news.39.net/xinjiangjie/
+text : 	link : http://disease.39.net/renxin/
+text : 	link : http://care.39.net/39zjpyt/
+text : 	link : http://news.39.net/xinzhi/
+text : 	link : http://woman.39.net/mrj/mrjzt/
+text : 	link : http://news.39.net/jkyys/
+text : 	link : http://fitness.39.net/sss/
+text : 39健康网	link : http://www.39.net/
+text : 未经授权请勿转载	link : http://corp.39.net/info/disclaimer.html
+text : 联系我们	link : http://corp.39.net/info/contact.html
+text : 	link : http://58.62.173.137/impeach.php?appid=68&sign=b6b5f07aa7a591aecbfa36ad7ab72d24

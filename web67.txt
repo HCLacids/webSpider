@@ -1,0 +1,351 @@
+text : 39健康网首页	link : http://www.39.net/
+text : 39问医生	link : http://ask.39.net/
+text : 名医在线	link : http://myzx.39.net/
+text : 就医助手	link : http://yyk.39.net/
+text : 药品通	link : http://ypk.39.net/
+text : 疾病百科	link : http://jbk.39.net/
+text : 新闻	link : http://news.39.net/
+text : 诊疗	link : http://zl.39.net/
+text : 药品	link : http://drug.39.net/
+text : 减肥	link : http://fitness.39.net/
+text : 整形	link : http://zx.39.net/
+text : 保健	link : http://care.39.net/
+text : 男性	link : http://man.39.net/
+text : 女性	link : http://woman.39.net/
+text : 育儿	link : http://baby.39.net/
+text : 老人	link : http://oldman.39.net/
+text : 生活	link : http://life.39.net/
+text : 饮食	link : http://food.39.net/
+text : 美容	link : http://face.39.net/
+text : 健身	link : http://sports.39.net/
+text : 心理	link : http://xl.39.net/
+text : 疾病	link : http://disease.39.net/
+text : 男科	link : http://nk.39.net/
+text : 妇科	link : http://fk.39.net/
+text : 儿科	link : http://ek.39.net/
+text : 产科	link : http://ck.39.net/
+text : 不孕不育	link : http://byby.39.net/
+text : 五官	link : http://wgk.39.net/
+text : 眼科	link : http://eye.39.net/
+text : 口腔	link : http://mouth.39.net/
+text : 过敏	link : http://gm.39.net/
+text : 耳鼻喉	link : http://ebh.39.net/
+text : 内科	link : http://neike.39.net/
+text : 肝病	link : http://gan.39.net/
+text : 乙肝	link : http://hbv.39.net/
+text : 肾病	link : http://shen.39.net/
+text : 糖尿病	link : http://tnb.39.net/
+text : 癌症肿瘤	link : http://cancer.39.net/
+text : 胃病	link : http://wei.39.net/
+text : 消化	link : http://xh.39.net/
+text : 神经	link : http://sj.39.net/
+text : 心血管	link : http://heart.39.net/
+text : 艾滋病	link : http://aids.39.net/
+text : 皮肤	link : http://pf.39.net/
+text : 性病	link : http://xb.39.net/
+text : 血液	link : http://xy.39.net/
+text : 内分泌	link : http://nfm.39.net/
+text : 精神科	link : http://js.39.net/
+text : 风湿	link : http://fs.39.net/
+text : 呼吸	link : http://hx.39.net/
+text : 传染	link : http://cr.39.net/
+text : 外科	link : http://wk.39.net/
+text : 骨科	link : http://gk.39.net/
+text : 肛肠	link : http://gc.39.net/
+text : 泌尿	link : http://mn.39.net/
+text : 整形	link : http://zx.39.net/
+text : 乳腺外科	link : http://jbk.39.net/bw/ruxianwaike
+text : 中医	link : http://cm.39.net/
+text : 急救	link : http://120.39.net/
+text : 体检	link : http://tj.39.net/
+text : 健康器械	link : http://qx.39.net/
+text : 专栏	link : http://column.39.net/
+text : 评测	link : http://pc.39.net/
+text : 博客	link : http://blog.39.net/
+text : 专题	link : http://special.39.net/
+text : 调查	link : http://dc.39.net/
+text : 视频	link : http://v.39.net/
+text : 自测	link : http://test.39.net/
+text : 论坛	link : http://bbs.39.net/
+text : 忘记密码	link : http://my.39.net/find_password.aspx
+text : 注册	link : http://my.39.net/passport/reg.aspx
+text : 退出	link : javascript:void(0);
+text : 123	link : http://my.39.net
+text : 我的提问	link : http://my.39.net/UserCenter/default.aspx?menu=myquestions
+text : 个人管理	link : http://my.39.net
+text : 短消息	link : http://my.39.net/UserCenter/default.aspx?menu=inbox
+text : 	link : http://news.39.net/shx/210727/9235700.html
+text : 一个年轻代妈的自述：这是一辈子都无法醒来的噩梦	link : http://news.39.net/shx/210727/9235700.html
+text : 详细	link : http://news.39.net/shx/210727/9235700.html
+text : 	link : http://news.39.net/shx/210719/9203357.html
+text : 惠民的名义	link : http://news.39.net/shx/210719/9203357.html
+text : 详细	link : http://news.39.net/shx/210719/9203357.html
+text : 	link : http://news.39.net/shx/210714/9181041.html
+text : 阿尔兹海默与被困在时间里的我们	link : http://news.39.net/shx/210714/9181041.html
+text : 详细	link : http://news.39.net/shx/210714/9181041.html
+text : 	link : http://news.39.net/shx/210705/9145497.html
+text : 救救孩子！当电子烟盯上青少年，一幕围猎大戏正	link : http://news.39.net/shx/210705/9145497.html
+text : 详细	link : http://news.39.net/shx/210705/9145497.html
+text : 	link : http://news.39.net/shx/210628/9117664.html
+text : 当代年轻人为什么不想生了？	link : http://news.39.net/shx/210628/9117664.html
+text : 详细	link : http://news.39.net/shx/210628/9117664.html
+text : 	link : http://news.39.net/shx/210727/9235700.html
+text : 一个年轻代妈的自述：这是一辈子都无法醒来的噩梦	link : http://news.39.net/shx/210727/9235700.html
+text : 	link : http://news.39.net/shx/210719/9203357.html
+text : 惠民的名义	link : http://news.39.net/shx/210719/9203357.html
+text : 	link : http://news.39.net/shx/210714/9181041.html
+text : 阿尔兹海默与被困在时间里的我们	link : http://news.39.net/shx/210714/9181041.html
+text : 	link : http://news.39.net/shx/210705/9145497.html
+text : 救救孩子！当电子烟盯上青少年，一幕围猎大戏正在上演	link : http://news.39.net/shx/210705/9145497.html
+text : 	link : http://news.39.net/shx/210628/9117664.html
+text : 当代年轻人为什么不想生了？	link : http://news.39.net/shx/210628/9117664.html
+text : 	link : http://news.39.net/shx/210628/9117630.html
+text : 一张3。要不起！	link : http://news.39.net/shx/210628/9117630.html
+text : 	link : http://news.39.net/shx/210628/9117499.html
+text : 三孩前传：摸着石头生娃	link : http://news.39.net/shx/210628/9117499.html
+text : 	link : http://news.39.net/shx/210129/8639195.html
+text : 这个疾病曾在我国肆虐，如今很多人却根本不知道……	link : http://news.39.net/shx/210129/8639195.html
+text : 	link : http://news.39.net/shx/210128/8634246.html
+text : 本应激扬的青春之歌为何变成“青春之殇”？	link : http://news.39.net/shx/210128/8634246.html
+text : 	link : http://news.39.net/shx/210125/8622430.html
+text : 春节不回家，照样可以做个快乐的原年人（原地过年）的人	link : http://news.39.net/shx/210125/8622430.html
+text : 	link : http://news.39.net/shx/210120/8607556.html
+text : 去国外代孕淘的“宝”，如今后悔了？	link : http://news.39.net/shx/210120/8607556.html
+text : 	link : http://news.39.net/shx/210119/8606858.html
+text : 《送你一朵小红花》热映，是谁让癌症患者活成了一座“孤岛”……	link : http://news.39.net/shx/210119/8606858.html
+text : 	link : http://news.39.net/shx/210108/8574804.html
+text : 让我的生命在别人的身体里延续……	link : http://news.39.net/shx/210108/8574804.html
+text : 	link : http://news.39.net/shx/201231/8552060.html
+text : 【年终盘点】2020，39健康用12个“字”说再见	link : http://news.39.net/shx/201231/8552060.html
+text : 	link : http://news.39.net/shx/200921/8232753.html
+text : 无力的人间：脑瘫家庭的痛苦与挣扎	link : http://news.39.net/shx/200921/8232753.html
+text : 	link : http://news.39.net/shx/200821/8142118.html
+text : 《乘风破浪的姐姐》崴脚骨折受伤不断，人到中年为了红需拼了命	link : http://news.39.net/shx/200821/8142118.html
+text : 	link : http://news.39.net/shx/200811/8111546.html
+text : 检查出脂肪肝，该怎么治？记准这几点，慢慢消掉脂肪肝	link : http://news.39.net/shx/200811/8111546.html
+text : 	link : http://news.39.net/shx/200701/8008925.html
+text : 小小的蚊子，每年能“杀死”70万人！	link : http://news.39.net/shx/200701/8008925.html
+text : 	link : http://news.39.net/shx/200624/7994286.html
+text : 哪位气功大师考取了《医疗气功技能合格证书》？	link : http://news.39.net/shx/200624/7994286.html
+text : 	link : http://news.39.net/shx/200619/7983787.html
+text : 中国式养老深陷困局：人到老年，怎么养？怎么医？	link : http://news.39.net/shx/200619/7983787.html
+text : 	link : http://news.39.net/shx/200617/7976746.html
+text : 未来三天决定新冠疫情走向，疫苗或成最后防线？	link : http://news.39.net/shx/200617/7976746.html
+text : 	link : http://news.39.net/shx/200612/7965966.html
+text : 陶勇谈高度近视治愈可能性：近视眼，真的可以逆转吗？	link : http://news.39.net/shx/200612/7965966.html
+text : 	link : http://news.39.net/shx/200608/7955410.html
+text : 身患绝症，治疗费用动辄百万，你会选择要钱还是要命？	link : http://news.39.net/shx/200608/7955410.html
+text : 	link : http://news.39.net/shx/200605/7949700.html
+text : 总是莫名出现腰痛，要留个心眼！别为晚年埋下一颗“炸弹”	link : http://news.39.net/shx/200605/7949700.html
+text : 	link : http://news.39.net/shx/200530/7935066.html
+text : 牛奶是婴幼儿最常见食物过敏原？怕喝假奶粉，婴幼儿还能吃什么？	link : http://news.39.net/shx/200530/7935066.html
+text : 	link : http://news.39.net/shx/200527/7928199.html
+text : 20万人因吃错药死亡，家庭药师真的有用吗？药，到底该怎么吃？	link : http://news.39.net/shx/200527/7928199.html
+text : 	link : http://news.39.net/shx/200525/7922923.html
+text : 季节一换就烂脸、皮肤受损？专家这样说：都怪你乱来！	link : http://news.39.net/shx/200525/7922923.html
+text : 	link : http://news.39.net/shx/200522/7917787.html
+text : 中国人的面子都败在了一口牙上	link : http://news.39.net/shx/200522/7917787.html
+text : 	link : http://news.39.net/shx/200520/7912514.html
+text : 全身长满肿瘤！医生说治不好，痼疾难治，如何应对一辈子的痛？?	link : http://news.39.net/shx/200520/7912514.html
+text : 	link : http://news.39.net/shx/200518/7907632.html
+text : 坐月子：中国妈妈的独特传统，是良习还是陋习？	link : http://news.39.net/shx/200518/7907632.html
+text : 	link : http://news.39.net/shx/200515/7902513.html
+text : 1400万汗腺旺盛的中国人：这种尴尬我说不出口	link : http://news.39.net/shx/200515/7902513.html
+text : 	link : http://news.39.net/shx/200513/7897613.html
+text : 妈妈因网课气到拉孩子投海，警醒：父母与小孩该怎么相处？	link : http://news.39.net/shx/200513/7897613.html
+text : 	link : http://news.39.net/shx/200511/7892977.html
+text : 抽脂减肥：想怎么瘦，就能怎么瘦？	link : http://news.39.net/shx/200511/7892977.html
+text : 	link : http://news.39.net/shx/200508/7885232.html
+text : 为什么总有人黑着眼眶熬着夜？	link : http://news.39.net/shx/200508/7885232.html
+text : 	link : http://news.39.net/shx/200506/7880774.html
+text : 25岁母亲赌命生子，孕妇是剖腹产好还是顺产好？医生告诉你答案	link : http://news.39.net/shx/200506/7880774.html
+text : 	link : http://news.39.net/shx/200429/7870085.html
+text : 90%造口人存在心理障碍，失去肛门的人：我不厌世，也不恋世	link : http://news.39.net/shx/200429/7870085.html
+text : 	link : http://news.39.net/shx/200427/7865457.html
+text : 产后那里都松了？女人缩阴的难言之隐：怕老公嫌弃！	link : http://news.39.net/shx/200427/7865457.html
+text : 	link : http://news.39.net/shx/200424/7860994.html
+text : 游戏真的只会玩物丧志吗？医生：身体上的疾病会更严重	link : http://news.39.net/shx/200424/7860994.html
+text : 	link : http://news.39.net/shx/200422/7856652.html
+text : 2020年了，你还在用“棍棒”教育孩子？	link : http://news.39.net/shx/200422/7856652.html
+text : 	link : http://news.39.net/shx/200420/7852822.html
+text : 怎么看待癌症患者？“谈癌色变”的年代，最怕人们对癌症一知半解	link : http://news.39.net/shx/200420/7852822.html
+text : 	link : http://news.39.net/shx/200417/7849605.html
+text : 便秘人群的肠癌危机：原来人生有一种痛，是拉不出来！	link : http://news.39.net/shx/200417/7849605.html
+text : 	link : http://news.39.net/shx/200415/7845916.html
+text : 你和癌症之间，可能只隔四步！医生：防癌远比治癌重要	link : http://news.39.net/shx/200415/7845916.html
+text : 	link : http://news.39.net/shx/200413/7842756.html
+text : 一个癌症病人的自述：明天和意外不知道哪个先来，希望在哪？	link : http://news.39.net/shx/200413/7842756.html
+text : 	link : http://news.39.net/shx/200410/7839545.html
+text : 追问鲍某明性侵案背后：为何多数受害者选择沉默？	link : http://news.39.net/shx/200410/7839545.html
+text : 	link : http://news.39.net/shx/200408/7836141.html
+text : 嗜咖啡如命，但咖啡却是把“双刃剑”，你真的那么需要咖啡吗？	link : http://news.39.net/shx/200408/7836141.html
+text : 	link : http://news.39.net/shx/200402/7828429.html
+text : 90后没有奶茶不行？上班族：我的命是靠奶茶换来的！	link : http://news.39.net/shx/200402/7828429.html
+text : 	link : http://news.39.net/shx/200402/7827650.html
+text : 境外每天2万人入境，中国能否防止疫情反扑？看看德国的经验	link : http://news.39.net/shx/200402/7827650.html
+text : 	link : http://news.39.net/shx/200401/7826813.html
+text : 疫情之下，管得住嘴才管得住健康，切勿暴饮暴食	link : http://news.39.net/shx/200401/7826813.html
+text : 	link : http://news.39.net/shx/200330/7823862.html
+text : 被公认是天才的他们，为何经常想自杀？	link : http://news.39.net/shx/200330/7823862.html
+text : 	link : http://news.39.net/shx/200327/7820908.html
+text : 众星捧月的“网络健身”真的靠谱吗？看似向好，实则“危机”重重	link : http://news.39.net/shx/200327/7820908.html
+text : 	link : http://news.39.net/shx/200326/7818773.html
+text : 英国王储确诊新冠！为什么国外那么多名人被感染？	link : http://news.39.net/shx/200326/7818773.html
+text : 	link : http://news.39.net/shx/200325/7817321.html
+text : 生病不敢去医院？疫情期间，一份公众就医临时指南请收好	link : http://news.39.net/shx/200325/7817321.html
+text : 	link : http://news.39.net/shx/200323/7814929.html
+text : 半解禁的上海：有人狂欢，也有人心惊胆战	link : http://news.39.net/shx/200323/7814929.html
+text : 	link : http://news.39.net/shx/200322/7813592.html
+text : 不用严格检疫就可直接转机，可能成为入境检疫的“漏洞”！	link : http://news.39.net/shx/200322/7813592.html
+text : 	link : http://news.39.net/shx/200320/7812066.html
+text : 回家真的安全？“不欢迎回国”的情绪背后，是切实需要的安全感	link : http://news.39.net/shx/200320/7812066.html
+text : 	link : http://news.39.net/shx/200318/7809394.html
+text : 致命野味，为何还有人前赴后继？这样“拼命”为哪般？	link : http://news.39.net/shx/200318/7809394.html
+text : 	link : http://news.39.net/shx/200316/7806847.html
+text : 上网课│孩子焦虑，家长吐槽，老师疯魔，网课焦虑该何去何从？	link : http://news.39.net/shx/200316/7806847.html
+text : 	link : http://news.39.net/shx/200313/7804515.html
+text : 国外的月亮真比中国圆？在“疫”国他乡的我，看到不一样的东西	link : http://news.39.net/shx/200313/7804515.html
+text : 	link : http://news.39.net/shx/200311/7802303.html
+text : 完美英雄并不存在：压垮一个人的心理防线需要多久？一夜之间	link : http://news.39.net/shx/200311/7802303.html
+text : 	link : http://news.39.net/shx/200309/7800163.html
+text : 离不开的武汉：被困在出租屋50天的四川姐弟	link : http://news.39.net/shx/200309/7800163.html
+text : 	link : http://news.39.net/shx/200306/7797909.html
+text : 听说茶烟比香烟更健康，事实真的如此吗？真相没那么简单	link : http://news.39.net/shx/200306/7797909.html
+text : 	link : http://news.39.net/shx/200304/7795523.html
+text : 武汉5万名志愿者：用普通人的力量，书写出温暖人间的故事	link : http://news.39.net/shx/200304/7795523.html
+text : 	link : http://news.39.net/shx/200302/7793793.html
+text : 肝脏的求救：避开这些致病高危因素，就是最好的“保肝药”	link : http://news.39.net/shx/200302/7793793.html
+text : 	link : http://news.39.net/shx/200228/7791921.html
+text : 盘点：疫情下的花式养生，他们当你是傻子，你可别真傻啊！	link : http://news.39.net/shx/200228/7791921.html
+text : 	link : http://news.39.net/shx/200226/7790589.html
+text : 农民工群体：援建火神山医院的背后，他们的隐忧又有谁知？	link : http://news.39.net/shx/200226/7790589.html
+text : 	link : http://news.39.net/shx/200224/7789367.html
+text : 硬核家乡不准出，返工城市不能进，我想上个班怎么就这么难？	link : http://news.39.net/shx/200224/7789367.html
+text : 	link : http://news.39.net/shx/200221/7788250.html
+text : “我想遵医嘱，可拿不到药。”救命药一药难求，有何解决办法？	link : http://news.39.net/shx/200221/7788250.html
+text : 	link : http://news.39.net/shx/200219/7786940.html
+text : 自述：这些奋战在一线的员工，正是中国各大城市的一个缩影	link : http://news.39.net/shx/200219/7786940.html
+text : 	link : http://news.39.net/shx/200217/7786065.html
+text : 我国697万留守儿童现状：我只想要父母陪陪我	link : http://news.39.net/shx/200217/7786065.html
+text : 	link : http://news.39.net/shx/200214/7784655.html
+text : 返程高峰来临，身处潜伏期的患者和我同一班次怎么办？	link : http://news.39.net/shx/200214/7784655.html
+text : 	link : http://news.39.net/shx/200212/7783771.html
+text : 防护服遇到生理期是什么体验？一片普通的卫生用品，成为奢侈品	link : http://news.39.net/shx/200212/7783771.html
+text : 	link : http://news.39.net/shx/200210/7782893.html
+text : 走上神坛的”抗肺炎神药“，是”货真价实“还是”浪得虚名“？	link : http://news.39.net/shx/200210/7782893.html
+text : 	link : http://news.39.net/shx/200207/7776442.html
+text : 李文亮医生去世，检测手段局限凸显，如何准确识别病人至关重要	link : http://news.39.net/shx/200207/7776442.html
+text : 	link : http://news.39.net/shx/200205/7775402.html
+text : 特殊的家书：奋战在一线的医务人员，我们等你们回家！	link : http://news.39.net/shx/200205/7775402.html
+text : 	link : http://news.39.net/shx/200203/7774792.html
+text : 疫情之下，生活百态，这是“我”被隔离十天的真实生活	link : http://news.39.net/shx/200203/7774792.html
+text : 	link : http://news.39.net/shx/200201/7774211.html
+text : 武汉一线医护人员│最美的逆行者，我们等你们平安归来！	link : http://news.39.net/shx/200201/7774211.html
+text : 	link : http://news.39.net/shx/200130/7772990.html
+text : 武汉出现伤医事件，特殊时期，请爱护所有医务人员	link : http://news.39.net/shx/200130/7772990.html
+text : 	link : http://news.39.net/shx/200129/7772806.html
+text : 医护眼中的武汉：疫情下逆行的医疗救援队手记	link : http://news.39.net/shx/200129/7772806.html
+text : 	link : http://news.39.net/shx/200126/7772299.html
+text : 对话武汉“逃离”者：我从武汉回来，我不是瘟神	link : http://news.39.net/shx/200126/7772299.html
+text : 	link : http://news.39.net/shx/200122/7771820.html
+text : 360°灵魂拷问、掏空的钱包...年轻人为何不爱回家过年？	link : http://news.39.net/shx/200122/7771820.html
+text : 	link : http://news.39.net/shx/200121/7770447.html
+text : 医患关系中，谁是弱势群体，是医生？还是病人？	link : http://news.39.net/shx/200121/7770447.html
+text : 	link : http://news.39.net/shx/200120/7769975.html
+text : 春节送礼送健康：保健食品真能送去健康保障吗？	link : http://news.39.net/shx/200120/7769975.html
+text : 	link : http://news.39.net/shx/200117/7766448.html
+text : 植物人：离死亡最近的人，到底有多大概率醒过来？	link : http://news.39.net/shx/200117/7766448.html
+text : 	link : http://news.39.net/shx/200115/7762766.html
+text : 头痛不是病，痛起来真要命！头痛可能是这些疾病的信号	link : http://news.39.net/shx/200115/7762766.html
+text : 	link : http://news.39.net/shx/200113/7751043.html
+text : 以“口吃”为乐的背后，1300万口吃群体，他们的人生是这样的	link : http://news.39.net/shx/200113/7751043.html
+text : 	link : http://news.39.net/shx/200110/7746941.html
+text : 90后保险大数据调查：活在当下，需要的是一份安全保障	link : http://news.39.net/shx/200110/7746941.html
+text : 	link : http://news.39.net/shx/200108/7743026.html
+text : 强迫症的人生：一直洗不干净的手	link : http://news.39.net/shx/200108/7743026.html
+text : 	link : http://news.39.net/shx/200107/7740060.html
+text : 被辣“毁掉”了的中国胃	link : http://news.39.net/shx/200107/7740060.html
+text : 	link : http://news.39.net/shx/200103/7735273.html
+text : 32岁女性冻卵日记：我有33颗卵子可以等待	link : http://news.39.net/shx/200103/7735273.html
+text : 	link : http://news.39.net/shx/191231/7728840.html
+text : 39深呼吸年终盘点｜乌云背后，终有银边	link : http://news.39.net/shx/191231/7728840.html
+text : 	link : http://news.39.net/shx/191230/7725237.html
+text : 关于杨文案，我们还有这三点要说	link : http://news.39.net/shx/191230/7725237.html
+text : 	link : http://news.39.net/shx/191228/7722474.html
+text : 谁杀死了杨文医生？	link : http://news.39.net/shx/191228/7722474.html
+text : 	link : http://news.39.net/shx/191227/7720819.html
+text : 中国尿毒症患儿：一边透析，一边等待肾源	link : http://news.39.net/shx/191227/7720819.html
+text : 	link : http://news.39.net/shx/191225/7715465.html
+text : 小儿推拿：你为孩子交的智商税，不该是孩子的生命	link : http://news.39.net/shx/191225/7715465.html
+text : 	link : http://news.39.net/shx/191223/7710563.html
+text : 美国到底有啥好？是什么吸引着她们，不远万里“赴美产子”？	link : http://news.39.net/shx/191223/7710563.html
+text : 	link : http://news.39.net/shx/191220/7704717.html
+text : 提醒：我们每天吃饭的筷子，可能成为致癌物的传播载体	link : http://news.39.net/shx/191220/7704717.html
+text : 	link : http://news.39.net/shx/191218/7699178.html
+text : 微信日均万步以上，会给腿部带来“无法承受之重”	link : http://news.39.net/shx/191218/7699178.html
+text : 	link : http://news.39.net/shx/191216/7693793.html
+text : 癫痫，一个做了就很难醒来的噩梦	link : http://news.39.net/shx/191216/7693793.html
+text : 	link : http://news.39.net/shx/191211/7682232.html
+text : 丧偶式育儿：击垮一个母亲，只需要孩子的一场感冒	link : http://news.39.net/shx/191211/7682232.html
+text : 	link : http://news.39.net/shx/191209/7676495.html
+text : 女子网购减肥茶，喝了10多天后进了医院，体重反而胖了9斤	link : http://news.39.net/shx/191209/7676495.html
+text : 	link : http://news.39.net/shx/191206/7671055.html
+text : 还在带着耳机的你，根本不懂耳鸣的痛	link : http://news.39.net/shx/191206/7671055.html
+text : 	link : http://news.39.net/shx/191204/7665146.html
+text : 中年男人满负荷前行，牺牲健康最终换来了什么？	link : http://news.39.net/shx/191204/7665146.html
+text : 	link : http://news.39.net/shx/191202/7659598.html
+text : 体检让德国人多活了25年，重视癌症筛查，可拯救一个家庭	link : http://news.39.net/shx/191202/7659598.html
+text : 	link : http://news.39.net/shx/191129/7653173.html
+text : 艾滋病不再是年轻人“专利”，50岁以上老年人成“主力军”	link : http://news.39.net/shx/191129/7653173.html
+text : 	link : http://news.39.net/shx/191127/7645600.html
+text : 35岁演员高以翔猝死！“黄金四分钟”，这些急救知识要牢记	link : http://news.39.net/shx/191127/7645600.html
+text : 	link : http://news.39.net/shx/191125/7640531.html
+text : 你知道吗？你拉出的“粑粑”，可能是别人治病的“良药”！	link : http://news.39.net/shx/191125/7640531.html
+text : 	link : http://news.39.net/shx/191122/7633796.html
+text : 在家摔一跤，住进ICU，20万没了，老人摔倒到底有多可怕？	link : http://news.39.net/shx/191122/7633796.html
+text : 	link : http://news.39.net/shx/191120/7628301.html
+text : 慢阻肺，为了活着，他们生不如死地获取每一丝氧气	link : http://news.39.net/shx/191120/7628301.html
+text : 	link : http://news.39.net/shx/191118/7622707.html
+text : 又是一年流感高发季，流感不是感冒，切莫把小病拖成重症	link : http://news.39.net/shx/191118/7622707.html
+text : 	link : http://news.39.net/shx/191115/7616756.html
+text : 这个原因，是新生儿死亡的首要原因，准妈妈都应该看看	link : http://news.39.net/shx/191115/7616756.html
+text : 	link : http://news.39.net/shx/191113/7611239.html
+text : 吃字头上一把刀，糖友别怕，一张升糖指数排序表送给你	link : http://news.39.net/shx/191113/7611239.html
+text : 	link : http://news.39.net/shx/191111/7605647.html
+text : 它是儿童“头号杀手”，家长切勿自己治疗，“拖累”孩子	link : http://news.39.net/shx/191111/7605647.html
+text : 	link : http://news.39.net/shx/191108/7599970.html
+text : 空巢青年生活指南：99%的自由和1%的寂寞	link : http://news.39.net/shx/191108/7599970.html
+text : 	link : http://news.39.net/shx/191106/7594434.html
+text : 中国1300万非意愿妊娠背后：性教育缺失	link : http://news.39.net/shx/191106/7594434.html
+text : 	link : http://news.39.net/shx/191101/7583434.html
+text : 劝说父母去体检无效，我们大打出手	link : http://news.39.net/shx/191101/7583434.html
+text : 	link : http://news.39.net/shx/191030/7577864.html
+text : 嗜酒如命，你很可能患上了“酒精依赖症”，别让酒毁了你	link : http://news.39.net/shx/191030/7577864.html
+text : 	link : http://news.39.net/shx/191028/7572049.html
+text : 褪黑素，能治疗好我的失眠吗？	link : http://news.39.net/shx/191028/7572049.html
+text : 	link : http://news.39.net/shx/191025/7566427.html
+text : 我在北上广，最怕电话那头响起的，是父母生病的消息	link : http://news.39.net/shx/191025/7566427.html
+text : 	link : http://news.39.net/shx/191023/7560852.html
+text : 为了祛黑头，你花了多少钱？	link : http://news.39.net/shx/191023/7560852.html
+text : 	link : http://news.39.net/shx/191021/7554672.html
+text : 活在电线杆上的人：650万银屑病患者生存实录	link : http://news.39.net/shx/191021/7554672.html
+text : 	link : http://news.39.net/shx/191018/7548745.html
+text : 宅了半年，19岁少年就肌肉萎缩了：“宅”的危害你知道吗？	link : http://news.39.net/shx/191018/7548745.html
+text : 	link : http://news.39.net/shx/191016/7543103.html
+text : 更年期，中年女人的一道“坎”：都有哪些症状？一张图总结	link : http://news.39.net/shx/191016/7543103.html
+text : 	link : http://news.39.net/shx/191014/7537468.html
+text : 戒烟，关键靠意志力？其实有更好的戒烟办法	link : http://news.39.net/shx/191014/7537468.html
+text : 	link : http://news.39.net/shx/191010/7527525.html
+text : 5个人中就有1个患干眼症：眼药水管用吗？让你失望了	link : http://news.39.net/shx/191010/7527525.html
+text : 	link : http://news.39.net/shx/191008/7519949.html
+text : 不到30岁，精神压力让ta们患上高血压，逃不过终生服药	link : http://news.39.net/shx/191008/7519949.html
+text : 	link : http://news.39.net/shx/190930/7506613.html
+text : 医院没人懂手语，聋哑人怎么看病？揭聋哑人就医现状	link : http://news.39.net/shx/190930/7506613.html
+text : 	link : http://news.39.net/shx/190927/7500159.html
+text : 很多人遛狗不拴绳，万一被咬了怎么办？教你正确步骤	link : http://news.39.net/shx/190927/7500159.html
+text : 	link : http://news.39.net/shx/190925/7494206.html
+text : 这种会传染、致命的病毒，“偏爱”6岁以下儿童，家长要注意	link : http://news.39.net/shx/190925/7494206.html
+text : 39健康网	link : http://www.39.net/
+text : 未经授权请勿转载	link : http://corp.39.net/info/disclaimer.html
+text : 联系我们	link : http://corp.39.net/info/contact.html
+text : 	link : http://58.62.173.137/impeach.php?appid=68&sign=b6b5f07aa7a591aecbfa36ad7ab72d24

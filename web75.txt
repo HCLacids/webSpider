@@ -1,0 +1,159 @@
+text : 	link : /
+text : 发现	link : /
+text : 名医在线	link : /myzx/index.html
+text : 视频	link : /video
+text : 名医馆	link : /doctor
+text : 专题	link : /zt/index.html
+text : 频道	link : /Channel
+text : 	link : http://www.39.net
+text : 登录	link : javascript:void(0);
+text : 	link : /zt/9.html
+text : 	link : /u/2670.html
+text : 李东豪	link : /u/2670.html
+text : 白内障人工晶体有哪些种类？	link : /lidonghao/24258.html
+text : 	link : /lidonghao/24258.html
+text : 	link : /u/1740.html
+text : 朱立新	link : /u/1740.html
+text : 有这几个习惯，你都离腰痛更进一步！	link : /zhulixin/24166.html
+text : 	link : /zhulixin/24166.html
+text : 	link : /u/1470.html
+text : 李公信	link : /u/1470.html
+text : 轻度高血压别急着吃药，靠饮食或许能降下来	link : /ligongxin/24151.html
+text : 	link : /ligongxin/24151.html
+text : 	link : /u/194.html
+text : 邱超平	link : /u/194.html
+text : 中医教你如何分辨肥胖类型	link : /qiuchaoping/24135.html
+text : 	link : /qiuchaoping/24135.html
+text : 	link : /u/1159.html
+text : 李映桃	link : /u/1159.html
+text : 产妇分娩发生羊水栓塞该怎么急救	link : /liyingtao/24131.html
+text : 	link : /liyingtao/24131.html
+text : 	link : /u/406.html
+text : 胡世云	link : /u/406.html
+text : 白术健脾益气，燥湿利水！湿痹腰腿痛吃它好得…	link : /hushiyun/7984.html
+text : 	link : /hushiyun/7984.html
+text : 	link : /u/406.html
+text : 胡世云	link : /u/406.html
+text : 冬至驱寒通经脉，一定不能错过这种食物！名医…	link : /hushiyun/7979.html
+text : 	link : /hushiyun/7979.html
+text : 	link : /u/406.html
+text : 胡世云	link : /u/406.html
+text : 蔡桓公拒绝扁鹊诊治吃了大亏！你有过“拒医“…	link : /hushiyun/5907.html
+text : 	link : /hushiyun/5907.html
+text : 	link : /u/406.html
+text : 胡世云	link : /u/406.html
+text : 华佗弟子的百岁养生秘诀：两味药打粉，每天坚…	link : /hushiyun/7923.html
+text : 	link : /hushiyun/7923.html
+text : 	link : /u/406.html
+text : 胡世云	link : /u/406.html
+text : 什么样的医者医术水平最高？扁鹊是这么说的	link : /hushiyun/5847.html
+text : 	link : /hushiyun/5847.html
+text : 	link : /u/406.html
+text : 胡世云	link : /u/406.html
+text : 为什么用悬壶济世形容医者仁心？	link : /hushiyun/5752.html
+text : 	link : /hushiyun/5752.html
+text : 	link : /u/406.html
+text : 胡世云	link : /u/406.html
+text : 这位名医治病救人从不收费，只求一种方式回报…	link : /hushiyun/5734.html
+text : 	link : /hushiyun/5734.html
+text : 	link : /u/406.html
+text : 胡世云	link : /u/406.html
+text : 男子久咳难倒众名医，华佗三剂药让他痊愈！	link : /hushiyun/7369.html
+text : 	link : /hushiyun/7369.html
+text : 	link : /u/406.html
+text : 胡世云	link : /u/406.html
+text : 华佗治好曹操的头痛，为何最终反遭杀害？	link : /hushiyun/5729.html
+text : 	link : /hushiyun/5729.html
+text : 	link : /u/406.html
+text : 胡世云	link : /u/406.html
+text : 你知道吗，一瓢井水煮橘叶竟可防治瘟疫！	link : /hushiyun/5649.html
+text : 	link : /hushiyun/5649.html
+text : 	link : /u/2668.html
+text : 刘晖艳	link : /u/2668.html
+text : 孕妇会将乙肝传染给宝宝吗？	link : /liuhuiyan/24231.html
+text : 	link : /liuhuiyan/24231.html
+text : 	link : /u/1470.html
+text : 李公信	link : /u/1470.html
+text : 高血压患者为何不能自行换药？心血管医生说出…	link : /ligongxin/24153.html
+text : 	link : /ligongxin/24153.html
+text : 	link : /u/194.html
+text : 邱超平	link : /u/194.html
+text : 女性减肥靠生理期？医生解释，这都是误会	link : /qiuchaoping/24137.html
+text : 	link : /qiuchaoping/24137.html
+text : 	link : /u/194.html
+text : 邱超平	link : /u/194.html
+text : 中医也能解决肥胖？听听专家怎么说	link : /qiuchaoping/24133.html
+text : 	link : /qiuchaoping/24133.html
+text : 	link : /u/1159.html
+text : 李映桃	link : /u/1159.html
+text : 哪些孕产妇易产后出血	link : /liyingtao/24129.html
+text : 	link : /liyingtao/24129.html
+text : 	link : /u/406.html
+text : 胡世云	link : /u/406.html
+text : 从“扁鹊换心”说心脏移植！心脏移植会让记忆…	link : /hushiyun/5915.html
+text : 	link : /hushiyun/5915.html
+text : 	link : /u/406.html
+text : 胡世云	link : /u/406.html
+text : 扁鹊创立了一种简便又准确的诊脉方法！	link : /hushiyun/5910.html
+text : 	link : /hushiyun/5910.html
+text : 	link : /u/406.html
+text : 胡世云	link : /u/406.html
+text : 华佗：孩子遇到这类疾病，应该“子病治母”！	link : /hushiyun/7924.html
+text : 	link : /hushiyun/7924.html
+text : 	link : /u/406.html
+text : 胡世云	link : /u/406.html
+text : 中医“望 闻 问 切”原来是扁鹊发明的！	link : /hushiyun/5902.html
+text : 	link : /hushiyun/5902.html
+text : 	link : /u/406.html
+text : 胡世云	link : /u/406.html
+text : 这种抗病食物原来是医圣张仲景发明的！吃了全…	link : /hushiyun/5845.html
+text : 	link : /hushiyun/5845.html
+text : 	link : /u/406.html
+text : 胡世云	link : /u/406.html
+text : 病来如山倒，病去如抽丝！这种男女之事千万不…	link : /hushiyun/7439.html
+text : 	link : /hushiyun/7439.html
+text : 	link : /u/406.html
+text : 胡世云	link : /u/406.html
+text : 华佗：常吃木耳理气调血，活到百岁也不糊涂！	link : /hushiyun/7370.html
+text : 	link : /hushiyun/7370.html
+text : 	link : /u/406.html
+text : 胡世云	link : /u/406.html
+text : 川芎是活血止痛的“奇药”！身上这6种痛都怕…	link : /hushiyun/7368.html
+text : 	link : /hushiyun/7368.html
+text : 	link : /u/406.html
+text : 胡世云	link : /u/406.html
+text : 一味丹参的功效就能媲美四物汤！你的心脏很需…	link : /hushiyun/7342.html
+text : 	link : /hushiyun/7342.html
+text : 	link : /u/406.html
+text : 胡世云	link : /u/406.html
+text : 《胡说中医》视频栏目开播：第1期何为岐黄	link : /hushiyun/5575.html
+text : 	link : /hushiyun/5575.html
+text : 	link : /pandanlei/24241.html
+text : 潘石蕾	link : /u/2667.html
+text : 得了糖尿病，还能怀上一个健康的宝宝吗？	link : /pandanlei/24241.html
+text : 	link : /pandanlei/24241.html
+text : 	link : /ligongxin/24270.html
+text : 李公信	link : /u/1470.html
+text : 医生苦苦相劝：食疗降压不能全迷信！已有不少…	link : /ligongxin/24270.html
+text : 	link : /ligongxin/24270.html
+text : 	link : /wuhongchao/24269.html
+text : 吴宏超	link : /u/1150.html
+text : 急性心梗突发时如何处理？	link : /wuhongchao/24269.html
+text : 	link : /wuhongchao/24269.html
+text : 	link : javascript:window.scrollTo( 0, 0 );
+text : 39健康网	link : http://www.39.net
+text : 网站简介	link : http://corp.39.net/info/
+text : 人才招聘	link : http://job.39.net/
+text : 联系我们	link : http://corp.39.net/info/contact.html
+text : 问题反馈	link : http://corp.39.net/info/myservice.html
+text : 医生登录	link : /myzx/doctor/Login.html
+text : 	link : http://58.62.173.137/impeach.php?appid=68&sign=b6b5f07aa7a591aecbfa36ad7ab72d24
+text : 	link : #
+text : 扫码登录 >>	link : javascript:void(0);
+text : 换一张	link : javascript:void(0);
+text : 忘记密码？	link : http://my.39.net/passport/findPwd.aspx
+text : 立即注册	link : javascript:void(0);
+text : 	link : javascript:void(0);
+text : 	link : javascript:void(0);
+text : 	link : javascript:void(0);
+text : 暂不注册 直接提交	link : javascript:void(0);

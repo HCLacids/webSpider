@@ -1,32 +1,39 @@
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
+import java.io.IOException;
+import java.util.HashMap;
+import java.util.LinkedList;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-import java.io.*;
 
 public class App {
-    public static void main(String[] args) throws Exception {
-        Document doc = Jsoup.connect("http://www.39.net/").get();
-        Elements links = doc.select("a[href]");
-        String title = doc.title();
-        System.out.println(title);
-
-        String keywords = doc.select("meta[name=keywords]").first().attr("content");  
-        System.out.println("Meta keyword : " + keywords);  
-        String description = doc.select("meta[name=description]").get(0).attr("content");  
-        System.out.println("Meta description : " + description);
-        // System.out.println(doc);
-
-        File file = new File("web.txt");
-        if(!file.exists()){
-            file.createNewFile();
+    public static void main(String[] args) throws IOException {
+        LinkedList<String> link = new LinkedList<String>();
+        HashMap<String, Integer> map = new HashMap<String, Integer>();
+        link.add("http://www.39.net/");
+        String regex = "https?://(\\w|-)+(\\.(\\w|-)+)+(/(\\w+(\\?(\\w+=(\\w|%|-)*(\\&\\w+=(\\w|%|-)*)*)?)?)?)+";
+        Pattern p  = Pattern.compile(regex);
+        int count = 0;
+        while(link.size() > 0 && count < 100) {
+            String url = link.poll();
+            Matcher m = p.matcher(url);
+            if(m.matches()){
+                if( map.get(url) == null){
+                    Fetch f = new Fetch(url, count);
+                    count++;
+                    f.get();
+                    Elements links = f.getLinks();
+                    for (Element l : links) {
+                        link.add(l.attr("href"));
+                    }
+                }
+                else{
+                    map.put(url, 1);
+                }
+            }
+            // System.out.println(links);
         }
-        FileWriter fileWriter = new FileWriter(file.getAbsoluteFile());
-        BufferedWriter bw = new BufferedWriter(fileWriter);
-        for (Element link : links) {
-            bw.write("text : " + link.text() + "\t");
-            bw.write("link : " + link.attr("href") + "\n");
-        }
-        bw.close();
+       
     }
 }
