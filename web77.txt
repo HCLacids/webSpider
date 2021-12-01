@@ -1,42 +1,11 @@
-text : 	link : http://www.39.net/
-text : 登录	link : https://my.39.net/passport/Login.aspx
-text : 注册	link : https://my.39.net/passport/reg.aspx
-text : 39网友	link : javascript:void(0);
-text : 我的提问	link : http://my.39.net/UserCenter/default.aspx?menu=myquestions
-text : 个人管理	link : http://my.39.net
-text : 退出	link : javascript:void(0);
-text : 消息	link : http://my.39.net/UserCenter/default.aspx?menu=inbox
-text : 问医生	link : http://ask.39.net/
-text : 找医院	link : http://yyk.39.net/
-text : 查疾病	link : http://jbk.39.net/
-text : 症状自查	link : http://jbk.39.net/bw_t2/
-text : 药品通	link : http://ypk.39.net/
-text : 快应用	link : http://www.39.net/a/200519/7910008.html
-text : 共建	link : #hospital
-text : 视频	link : #video
-text : 音频	link : #audio
-text : 医生	link : #user
-text : 图文	link : #img
-text : 	link : http://szy.39.net/
-text : 	link : http://v.39.net/psbvideo/nfykdxzxyjhyy/
-text : 	link : http://v.39.net/psbvideo/nanfangsanyuan/
-text : 	link : http://v.39.net/qmdzy/index.html
-text : 	link : http://v.39.net/video/yss/index.html
-text : 	link : http://v.39.net/qwwdsp/index.html
-text : 	link : http://v.39.net/video/hushuozhongyi/index.html
-text : 	link : http://v.39.net/yp/qmdzy/
-text : 	link : http://v.39.net/yp/jkys/
-text : 	link : http://doc.39.net/
-text : 	link : http://doc.39.net/myzx/index.html
-text : 	link : http://news.39.net/shx/
-text : 	link : http://news.39.net/xinjiangjie/
-text : 	link : http://disease.39.net/renxin/
-text : 	link : http://care.39.net/39zjpyt/
-text : 	link : http://news.39.net/xinzhi/
-text : 	link : http://woman.39.net/mrj/mrjzt/
-text : 	link : http://news.39.net/jkyys/
-text : 	link : http://fitness.39.net/sss/
-text : 39健康网	link : http://www.39.net/
-text : 未经授权请勿转载	link : http://corp.39.net/info/disclaimer.html
-text : 联系我们	link : http://corp.39.net/info/contact.html
-text : 	link : http://58.62.173.137/impeach.php?appid=68&sign=b6b5f07aa7a591aecbfa36ad7ab72d24
+text : 河北治白癜风大概得多少钱呢?	link : http://yyk.39.net/yyts/bjbdfyy_tsyl/1276/	keyword: 河北治白癜风大概得多少钱呢?,北京国丹白癜风医院	description:　　大家都知道，白癜风的治疗不是一件容易的事情，所以，很多的患者在治疗的时候，都比较关心看病的治疗费用。其实，白癜风的治疗还是越早治疗越好，这样还会提升白癜风的治愈希望。那么，河北治白癜风大概得多少钱呢?接下来我们就来看看以下的详细介绍：　　病情不同：　　由于每个人的年龄、体质差异、药敏度、病情不同...
+text : 河北儿童白癜风要怎么治疗好	link : http://yyk.39.net/yyts/bjbdfyy_tsyl/1275/	keyword: 河北儿童白癜风要怎么治疗好,北京国丹白癜风医院	description:　　白癜风是现在比较常见的一种皮肤病，有很多的人都在遭受这种疾病带来的折磨，特别是对于儿童来说，因为身体的抵抗力是很差的，所以就会导致各种疾病的发生了，其中就有白癜风这种疾病，所以，很多的家长对于儿童白癜风的治疗都是很关心的，都想要知道，河北儿童白癜风要怎么治疗好呢，下面就来给大家介绍一下。　　1、...
+text : 河北哪家医院治疗白癜风好呢?	link : http://yyk.39.net/yyts/bjbdfyy_tsyl/1274/	keyword: 河北哪家医院治疗白癜风好呢?,北京国丹白癜风医院	description:　　面对白癜风，很多患者朋友会选择去医院进行治疗来解决问题，但是就白癜风治疗本身来讲，它的治疗难度很大，还很容易复发，因此，若患上了白癜风想通过去医院治疗来解决困扰的话，还要选择一家正规专业的医院进行治疗，让白癜风治疗更加有效和安全。那么，河北哪家医院治疗白癜风好呢?患者如何选择白癜风医院呢?　　河北...
+text : 河北白癜风治疗要花多少钱?	link : http://yyk.39.net/yyts/bjbdfyy_tsyl/1272/	keyword: 河北白癜风治疗要花多少钱?,北京国丹白癜风医院	description:　　由于生活中追求高质量的生活水准和缺失个人保护意识，患有白癜风的患者也随之增多，而白癜风的种类也有很多，不同的白癜风治疗费用也是不一样的，白癜风的发生严重危害到患者的身体健康，近些年白癜风发生的几率是越来越高，白癜风产生的途径又比较多，所以各位患者一定要对白癜风心存敬畏，及时诊治白癜风。那么，河北...
+text : 河北治白癜风大概得多少钱呢?	link : http://yyk.39.net/yyts/bjbdfyy_tsyl/1276/	keyword: 河北治白癜风大概得多少钱呢?,北京国丹白癜风医院	description:　　大家都知道，白癜风的治疗不是一件容易的事情，所以，很多的患者在治疗的时候，都比较关心看病的治疗费用。其实，白癜风的治疗还是越早治疗越好，这样还会提升白癜风的治愈希望。那么，河北治白癜风大概得多少钱呢?接下来我们就来看看以下的详细介绍：　　病情不同：　　由于每个人的年龄、体质差异、药敏度、病情不同...
+text : 河北儿童白癜风要怎么治疗好	link : http://yyk.39.net/yyts/bjbdfyy_tsyl/1275/	keyword: 河北儿童白癜风要怎么治疗好,北京国丹白癜风医院	description:　　白癜风是现在比较常见的一种皮肤病，有很多的人都在遭受这种疾病带来的折磨，特别是对于儿童来说，因为身体的抵抗力是很差的，所以就会导致各种疾病的发生了，其中就有白癜风这种疾病，所以，很多的家长对于儿童白癜风的治疗都是很关心的，都想要知道，河北儿童白癜风要怎么治疗好呢，下面就来给大家介绍一下。　　1、...
+text : 河北哪家医院治疗白癜风好呢?	link : http://yyk.39.net/yyts/bjbdfyy_tsyl/1274/	keyword: 河北哪家医院治疗白癜风好呢?,北京国丹白癜风医院	description:　　面对白癜风，很多患者朋友会选择去医院进行治疗来解决问题，但是就白癜风治疗本身来讲，它的治疗难度很大，还很容易复发，因此，若患上了白癜风想通过去医院治疗来解决困扰的话，还要选择一家正规专业的医院进行治疗，让白癜风治疗更加有效和安全。那么，河北哪家医院治疗白癜风好呢?患者如何选择白癜风医院呢?　　河北...
+text : 河北白癜风治疗要花多少钱?	link : http://yyk.39.net/yyts/bjbdfyy_tsyl/1272/	keyword: 河北白癜风治疗要花多少钱?,北京国丹白癜风医院	description:　　由于生活中追求高质量的生活水准和缺失个人保护意识，患有白癜风的患者也随之增多，而白癜风的种类也有很多，不同的白癜风治疗费用也是不一样的，白癜风的发生严重危害到患者的身体健康，近些年白癜风发生的几率是越来越高，白癜风产生的途径又比较多，所以各位患者一定要对白癜风心存敬畏，及时诊治白癜风。那么，河北...
+text : 河北看白癜风大概需要多少钱？	link : http://yyk.39.net/yyts/bjbdfyy_tsyl/1248/	keyword: 河北看白癜风大概需要多少钱？,北京国丹白癜风医院	description:　　白癜风是目前很常见的一种慢性皮肤病，这种疾病的出现会给患者的皮肤上带来一片片白斑，患上白癜风的患，方知白斑病产生的伤害，因此大家要高度重视，发病初期就要及时治疗，大多患者都很关心治疗白癜大概需要多少钱这个问题，下面来为大家介绍河北看白癜风大概需要多少钱？　　河北看白癜风大概需要多少钱？　　治白癜...
+text : 河北治疗白癜风价格贵不贵？	link : http://yyk.39.net/yyts/bjbdfyy_tsyl/1247/	keyword: 河北治疗白癜风价格贵不贵？,北京国丹白癜风医院	description:　　白癜风不仅会影响患者的身体，还会对人们的生活和工作产生很大的影响。这种疾病也可以传播和复发，所以家人也急于提醒朋友，患上白癜风要及时的去治疗。只有尽早积极治疗，才能更快的摆脱白癜风带来的困扰，但是患者更关心的问题那就是白癜风治疗费用，贵不贵这方面。那么河北治疗白癜风价格到底贵不贵呢？　　河北治疗...
+text : 白癜风夏季出游注意事项	link : http://yyk.39.net/yyts/bjbdfyy_tsyl/1080/	keyword: 白癜风夏季出游注意事项,北京国丹白癜风医院	description:　　很多人喜欢旅游，有的是和朋友同事，有的是一家几口。随着夏季临近，也有不少白癜风患者选择抽空游玩，徒步旅行、自驾游等等，一方面寄情山水、愉悦身心，另一方面还可以纳凉、避暑。下面一起说一下白癜风夏季出游注意事项　　皮肤长白癜风，偶尔出去转一转，散散心，对疾病恢复也有好处。　　但也有的患者比较苦恼。临...

@@ -1,39 +1,8 @@
-text : 	link : http://news.39.net/xinjiangjie/index.html
-text : 电报	link : http://news.39.net/xinjiangjie/db/
-text : 访谈	link : http://news.39.net/xinjiangjie/ft/
-text : 传记	link : http://news.39.net/xinjiangjie/zj/
-text : 前沿	link : http://news.39.net/xinjiangjie/qy/
-text : 洞察	link : http://news.39.net/xinjiangjie/dc/
-text : 政策	link : http://news.39.net/xinjiangjie/zc/
-text : 中成药专题研究 | 中药板块指数下挫，中成药受制因素多 申万中药对医药生物板块拉动有限	link : http://news.39.net/dc/210127/8630217.html
-text : CRO专题研究 | 疫情刺激，需求拉升，CRO潜能激发 CRO（合同研发服务），是通过合同形式为制药企业和研发机构在药物研发过程中提供专业化服务的一种学术性或商业性的科学机构。	link : http://news.39.net/a/210111/8581740.html
-text : 研发新冠疫苗，加速推进我国疫苗市场发展 疫苗作为目前唯一的预防性药品，一直以来受到各界关注，全球疫苗市场在刚性需求下得以长期稳定增长。	link : http://drug.39.net/xjj/201217/8504457.html
-text : 医美发力，决战上游 随经济发展，消费者对健康需求进一步细分，医美成为消费者相对关注产品。	link : http://drug.39.net/a/201215/8499814.html
-text : 医美注射，下游竞争 医美注射行业产业链共三个板块，其中下游医美平台直接初代消费者。	link : http://drug.39.net/a/201215/8499936.html
-text : 中成药专题研究 | 中药板块指数下挫，中成药受制因素多	link : http://news.39.net/dc/210127/8630217.html
-text : CRO专题研究 | 疫情刺激，需求拉升，CRO潜能激发	link : http://news.39.net/a/210111/8581740.html
-text : 研发新冠疫苗，加速推进我国疫苗市场发展	link : http://drug.39.net/xjj/201217/8504457.html
-text : 医美发力，决战上游	link : http://drug.39.net/a/201215/8499814.html
-text : 医美注射，下游竞争	link : http://drug.39.net/a/201215/8499936.html
-text : 仁济医院完成浦东新区首例造血干细胞捐献，这预示着哪些信号？	link : http://news.39.net/qy/200703/8011601.html
-text : 赴港“筹钱”热潮继续！港股真能成为国内药企后市场时代发展“吸金池”？	link : http://news.39.net/dc/200623/7991516.html
-text : 被跨国企业垄断多年后，国产牙骨传导听力系统将填补本土听力市场空白	link : http://news.39.net/qy/200622/7989216.html
-text : 从跟风到需求，你到底需要什么样的商业保险？	link : http://news.39.net/a/200605/7949071.html
-text : 地方集采陆续落地，临床、质量、价格三核心仍为主旋律	link : http://news.39.net/a/200520/7911201.html
-text : 2	link : index_1.html
-text : 3	link : index_2.html
-text : 4	link : index_3.html
-text : 5	link : index_4.html
-text : 6	link : index_5.html
-text : 7	link : index_6.html
-text : 8	link : index_7.html
-text : 下一页	link : index_1.html
-text : 尾页	link : index_9.html
-text : 中成药专题研究 | 中药板块指数下挫，中成药受制因素多	link : http://news.39.net/dc/210127/8630217.html
-text : CRO专题研究 | 疫情刺激，需求拉升，CRO潜能激发	link : http://news.39.net/a/210111/8581740.html
-text : 研发新冠疫苗，加速推进我国疫苗市场发展	link : http://drug.39.net/xjj/201217/8504457.html
-text : 医美发力，决战上游	link : http://drug.39.net/a/201215/8499814.html
-text : 39健康网	link : http://www.39.net/
-text : 未经授权请勿转载	link : http://corp.39.net/info/disclaimer.html
-text : 联系我们	link : http://corp.39.net/info/contact.html
-text : 	link : http://58.62.173.137/impeach.php?appid=68&sign=b6b5f07aa7a591aecbfa36ad7ab72d24
+text : 昆明白癜风医院哪里比较好	link : http://yyk.39.net/yydq/jnbdfyy/	keyword: 昆明白癜风医院,昆明治白癜风多少钱,昆明治疗白癜风医院,昆明白癜风专科医院,昆明复美白癜风医院	description:云南昆明哪家医院治疗白癜风正规专业?昆明复美白癜风医院是昆明市卫计委批准的昆明白癜风专科医院,专治白癜风,作为爱心扶贫定点，同时也服务曲靖,昭通,玉溪,保山,普洱等地区的白癜风患者，以申宁为主的医师团队，以专业专治为为核心，定期为白癜风患者诊疗，除此之外还经常参加各类学术会议，受邀做客健康大讲台等，选择白癜风专科医院很关键，本医院为您提供各位专家的预约挂号方式和坐诊时间。
+text : 昆明看白癜风的医院排名	link : http://yyk.39.net/yydq/jnbdfyy/	keyword: 昆明白癜风医院,昆明治白癜风多少钱,昆明治疗白癜风医院,昆明白癜风专科医院,昆明复美白癜风医院	description:云南昆明哪家医院治疗白癜风正规专业?昆明复美白癜风医院是昆明市卫计委批准的昆明白癜风专科医院,专治白癜风,作为爱心扶贫定点，同时也服务曲靖,昭通,玉溪,保山,普洱等地区的白癜风患者，以申宁为主的医师团队，以专业专治为为核心，定期为白癜风患者诊疗，除此之外还经常参加各类学术会议，受邀做客健康大讲台等，选择白癜风专科医院很关键，本医院为您提供各位专家的预约挂号方式和坐诊时间。
+text : 昆明哪里治疗白癜风比较好	link : http://yyk.39.net/yyts/jnbdfyy_tsyl/	keyword: 昆明哪里治疗白癜风,昆明哪里治疗白癜风好,昆明哪里治疗白癜风比较好,昆明能看白癜风的医院,昆明能看白癜风的医院有哪些,昆明白癜风医院,昆明哪家白癜风医院好	description:昆明哪里治疗白癜风（白斑病）比较好？昆明白癜风专科医院治疗各类白癜风疾病,以精湛的技术和周到细致的服务,全方位、专业化的人本理念,为广大患者构建全程优质的康复服务的昆明白癜风医院.
+text : 昆明能看白癜风的医院有哪些	link : http://yyk.39.net/yyts/jnbdfyy_tsyl/	keyword: 昆明哪里治疗白癜风,昆明哪里治疗白癜风好,昆明哪里治疗白癜风比较好,昆明能看白癜风的医院,昆明能看白癜风的医院有哪些,昆明白癜风医院,昆明哪家白癜风医院好	description:昆明哪里治疗白癜风（白斑病）比较好？昆明白癜风专科医院治疗各类白癜风疾病,以精湛的技术和周到细致的服务,全方位、专业化的人本理念,为广大患者构建全程优质的康复服务的昆明白癜风医院.
+text : 昆明专业白癜风医院地址电话	link : http://yyk.39.net/yyts/jnbdfyy_jyzn/	keyword: 昆明专业白癜风医院,昆明专业白癜风医院地址,昆明白癜风医院,昆明白癜风医院的位置,昆明专业白癜风医院电话,昆明哪里治疗白癜风,昆明哪里治疗白癜风比较好	description:昆明专业白癜风（白斑病）医院地址电话，昆明白癜风医院临床通过实行分型、分区、分期、分龄治疗，让患者得到科学的中西医结合治疗方案，实效祛白的白癜风医院。
+text : 昆明看白癜风医院哪个好	link : http://yyk.39.net/yyts/jnbdfyy_yyjj/	keyword: 昆明看白癜风医院,昆明看白癜风医院哪个好,昆明专业白癜风医院,昆明专业治疗白癜风医院,昆明治疗白癜风医院,昆明治疗白癜风医院哪个好,昆明哪里治疗白癜风,昆明哪里治疗白癜风好	description:昆明专业治疗白癜风（白斑病）医院哪个好？昆明白癜风医院具有独具特色的中西医结合治疗手段，尤其是拥有完善的白癜风专业诊疗设备，对各种白癜风的诊疗效果甚佳。
+text : 昆明专业治疗白癜风医院哪个好	link : http://yyk.39.net/yyts/jnbdfyy_yyjj/	keyword: 昆明看白癜风医院,昆明看白癜风医院哪个好,昆明专业白癜风医院,昆明专业治疗白癜风医院,昆明治疗白癜风医院,昆明治疗白癜风医院哪个好,昆明哪里治疗白癜风,昆明哪里治疗白癜风好	description:昆明专业治疗白癜风（白斑病）医院哪个好？昆明白癜风医院具有独具特色的中西医结合治疗手段，尤其是拥有完善的白癜风专业诊疗设备，对各种白癜风的诊疗效果甚佳。
+text : 沈阳治白癜风医院怎么样	link : http://yyk.39.net/yydq/sybdfyy/	keyword: 沈阳白癜风医院,沈阳白癜风医院排名,沈阳白癜风医院哪家好,沈阳白癜风专科医院,沈阳中亚白癜风专科医院	description:沈阳白癜风医院哪家好?沈阳中亚白癜风医院是辽宁地区卫生部门批准的唯一以白癜风科研、治疗为一体的专业老牌诊疗中心，多年来，沈阳中亚依托强大的强大的医疗实力和先进的诊疗水平，打造了一支以孙金奎、马萍、杨伟平等专家为主导的具有丰富临床经验的白癜风专家团队。

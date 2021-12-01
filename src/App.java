@@ -11,7 +11,7 @@ public class App {
     public static void main(String[] args) throws IOException {
         LinkedList<String> link = new LinkedList<String>();
         HashMap<String, Integer> map = new HashMap<String, Integer>();
-        link.add("http://www.39.net/");
+        link.add("http://news.39.net/");
         String regex = "https?://(\\w|-)+(\\.(\\w|-)+)+(/(\\w+(\\?(\\w+=(\\w|%|-)*(\\&\\w+=(\\w|%|-)*)*)?)?)?)+";
         Pattern p  = Pattern.compile(regex);
         int count = 0;
